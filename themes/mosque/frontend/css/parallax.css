@@ -1,0 +1,57 @@
+.skrollable {
+	position:absolute;
+	z-index:100;
+	
+}
+.full-width{
+	position:relative;
+	z-index:66;
+}
+.bg_full_transparency {
+	z-index:0;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	position:absolute;
+}
+.color_class_cp{
+	position:relative;
+	width:100%;
+	display:inline-block;
+	float:left;
+}
+.bg2 {
+	z-index:49;
+	
+}
+.bg1 {
+	z-index:48;
+	
+}
+.parallax_class {
+	z-index:50;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+#bg4{
+	background-size:cover;
+	
+	z-index:0;
+}
+#bg5{
+	background-size:cover;
+	
+	z-index:0;
+}
+#bg5:before{
+	content:"";
+	width:100%;
+	height:100%;
+	background-color:rgba(0,0,0,0.7);
+	position:absolute;
+	left:0px;
+	top:0px;
+}

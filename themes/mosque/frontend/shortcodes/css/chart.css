@@ -1,0 +1,68 @@
+
+.easyPieChart {
+    position: relative;
+    text-align: center;
+	margin:0px auto;
+}
+
+.easyPieChart canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+.chart {
+    float: left;
+    margin: 0;
+	width:100%;
+	text-align:center;
+}
+.percentage{
+	font-size:45px;
+	font-weight:bold;
+}
+
+.label {
+    text-align: center;
+    font-weight: 100;
+    font-size: 18px;
+    margin-bottom: 0.3em;
+	text-transform:uppercase;
+	font-weight:bold;
+	margin:20px 0px 0px 0px;
+	width:100%;
+	float:left;
+	line-height:none;
+	background:none;
+	text-shadow:none;
+}
+.dark {
+    background: #333;
+}
+
+.dark .percentage-light,
+.dark .label {
+    text-align: center;
+    color: #999;
+    font-weight: 100;
+    font-size: 1.2em;
+    margin-bottom: 0.3em;
+}
+.easyPieChart {
+    position: relative;
+    text-align: center;
+}
+
+.easyPieChart canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+@media screen and (max-device-width: 480px) {
+  .container{
+    width: 100%;
+  }
+}

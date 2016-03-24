@@ -1,0 +1,23 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">quantity</custom-field>
+        <custom-field action="translate">custom-title</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">albums</custom-type>
+        <custom-type translate="1">gallery</custom-type>
+		<custom-type translate="1">cp_slider</custom-type>
+		<custom-type translate="1">teams</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">album-category</taxonomy>
+		<taxonomy translate="1">album-tag</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="cp_theme_options">
+            <key name="option_name_1" />
+            <key name="option_name_2" />
+        </key>
+        <key name="simple_string_option" />
+    </admin-texts>
+</wpml-config>

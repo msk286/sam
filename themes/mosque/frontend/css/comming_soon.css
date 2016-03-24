@@ -1,0 +1,421 @@
+
+/*=======================================
+	Cp-wrapper1 Style
+	body {overflow-x:hidden;}
+
+=======================================*/
+
+
+.cp_wrapper1{
+	background:url(../../images/page-bg2.jpg) no-repeat fixed;
+	background-size:cover;
+	margin:0px;
+	position:relative;
+	width:100%;
+	float:left;
+	text-align:center;
+	color:#fff;
+	z-index:22;
+	height:100%;
+}
+.cp_wrapper1:after {
+	background:rgba(0,0,0,.70); 
+	position:absolute; 
+	height:100%;
+	width:100%; 
+	content:""; 
+	top:0; 
+	left:0;
+	z-index:-1;
+}
+/***Left-side***/
+.cp_wrapper1 .left-side{
+	background-color:rgba(0,0,0,0.50);
+	padding-top:100px;
+	padding-bottom:100px;
+}
+.cp_wrapper1 .logo,.cp_wrapper1 .text{
+	margin:0 0 100px 0;
+}
+.cp_wrapper1 .text p{
+	font-size:22px;
+	font-weight:300;
+	color:#fff;
+	line-height:30px;
+	margin:0;
+}
+/*=======================================
+	Countdown-css
+=======================================*/
+.countdown{
+	padding:40px 0 25px;
+	text-align:center;
+}
+.clock .clock-item{
+	width:170px;
+	padding:10px;
+	display:inline-block;
+	margin-left:12px;
+	position:relative;
+}
+/*.clock .clock-item:before{
+	content:'';
+	position:absolute;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	width:100%;
+	height:100%;
+	border-radius:100%;
+	border:3px dotted #fff;
+}*/
+.countdown-time-value {
+	position: relative;
+}
+.count-down-time-value-afternone {
+	position: relative;
+}
+.clock-item .inner {
+	height: 0px;
+	padding-bottom: 100%;
+	position: relative;
+	width: 100%;
+}
+.clock-canvas {
+	background-color: rgba(255, 255, 255, 0.15);
+	border-radius: 50%;
+	height: 0px;
+	padding-bottom: 100%;
+}
+.inner .text {
+	margin-top:-30px;
+	position: absolute;
+	top:0;
+	text-align: center;
+	width: 100%;
+}
+.inner .text .val{
+	font-size:60px;
+	font-weight:bold;
+	font-family: 'Roboto', sans-serif;
+	margin:15px 0 0 0;
+}
+.inner .text p{
+	font-size:16px;
+	text-transform:uppercase;
+	font-weight:bold;
+	color:#fff;
+	padding-top:80px;
+}
+/***Right-side***/
+.cp_wrapper1 .right-side{
+	position:relative;
+	padding-top:100px;
+	padding-bottom:100px;
+}
+.cp_wrapper1 .newsletter-box{
+	padding-top:100px;
+	padding-bottom:100px;
+	margin:0 auto;
+	width:85%;
+}
+.cp_wrapper1 .newsletter-box p{
+	font-size:20px;
+	font-weight:400;
+	text-align:left;
+	text-transform:uppercase;
+	margin:0 0 18px;
+	color:#fff;
+}
+.cp_wrapper1 .newsletter-box .form-box{
+	height:50px;
+	width:100%;
+	margin:0 0 18px 0;
+}
+.cp_wrapper1 .newsletter-box .form-box input[type="text"]{
+	color:#999;
+	background-color:#fff;
+	padding:15px 20px 17px;
+	border-radius:4px 0 0 4px;
+	border:none;
+	float:left;
+	width:88%;
+}
+.cp_wrapper1 .newsletter-box .form-box .submit{
+	font-size:30px;
+	color:#333333;
+	background-color:#fff;
+	padding:4px 17px 2px;
+	border:none;
+	border-radius:0 4px 4px 0;
+	float:right;
+}
+
+.cp_wrapper1 .btn-search.btn-submit-news {float:left; height:52px; font-size:30px; margin-left:1px; border:0px; border-radius:0 5px 5px 0; padding:0 20px; background-color:#000;}
+
+/***Social-links***/
+.cp_wrapper1 .social-links li{
+	display:inline-block;
+	margin:0 0 0 8px;
+}
+.cp_wrapper1 .social-links li a{
+	padding:6px 0;
+	width:47px;
+	height:47px;
+	background-color:rgba(0,0,0,0.30);
+	border:2px solid #fff;
+	border-radius:100%;
+	display:block;
+	font-size:20px;
+	color:#fff;
+	text-align:center;
+}
+
+
+/*=======================================
+	Cp-wrapper2 Style
+=======================================*/
+.cp_wrapper2{
+	background:url(../../images/page-bg.jpg);
+	margin:0px;
+	background-size:cover;
+	position:relative;
+	width:100%;
+	float:left;
+	padding:70px 0;
+	text-align:center;
+	z-index:22;
+}
+.cp_wrapper2:after {
+	background:rgba(0,0,0,.70); 
+	position:absolute; 
+	height:100%;
+	width:100%; 
+	content:""; 
+	top:0; 
+	left:0;
+	z-index:-1;
+}
+.cp_wrapper2 .logo,.cp_wrapper2 .countdown{
+	margin-bottom:125px;
+}
+.cp_wrapper2 .countdown{
+	padding-top:0;
+}
+.cp_wrapper2 .clock .clock-item{
+	margin:0 12px;
+}
+/***newsletter-box***/
+.cp_wrapper2 .newsletter-box{
+	color:#fff;
+}
+.cp_wrapper2 .newsletter-box p{
+	font-size:20px;
+	font-weight:400;
+	text-transform:uppercase;
+	margin:0 0 18px;
+	color:#fff;
+}
+.cp_wrapper2 .newsletter-box .form-box{
+	border:2px solid #fff;
+	border-radius:4px;
+	background-color:rgba(0,0,0,0.30);
+	padding:3px;
+	height:50px;
+	width:60%;
+	margin:0 0 20px;
+	display:inline-block;
+}
+.cp_wrapper2 .newsletter-box .form-box p {display:none;}
+
+.cp_wrapper2 .newsletter-box .form-box input[type="text"]{
+	width:100%;
+	float:left;
+	font-size:14px;
+	text-align:left;
+	border:none;
+	background-color:transparent;
+	color:#fff;
+	padding:9px 15px 10px;
+}
+
+.cp_wrapper2 .btn-search.btn-submit-news { 
+border:0px; 
+font-size:17px;
+position:absolute;
+right:0;
+top:0;
+height:40px;
+width:40px;
+}
+
+.cp_wrapper2 .newsletter-box .form-box input[type="submit"]{
+	font-size:16px;
+	color:#333333;
+	font-weight:400;
+	text-transform:uppercase;
+	padding:8px 20px 9px;
+	border:none;
+	border-radius:5px;
+	background-color:#fff;
+	font-weight:bold;
+	text-align:center;
+	float:right;
+}
+/***Social-links***/
+
+.cp_wrapper2 .social-links {margin:0px; padding:0px; text-align:center;}
+
+.cp_wrapper2 .social-links li{
+	display:inline-block;
+	margin:0 4px 8px 4px;
+}
+.cp_wrapper2 .social-links li a{
+	padding:6px 0;
+	width:47px;
+	height:47px;
+	background-color:rgba(0,0,0,0.30);
+	border:2px solid #fff;
+	border-radius:100%;
+	display:block;
+	font-size:20px;
+	color:#fff;
+	text-align:center;
+}
+
+
+
+/*=======================================
+	Responsive Style
+=======================================*/
+@media(min-width:1200px){
+.cp_wrapper1 .newsletter-box{
+	position:absolute;
+	left:0;
+	right:0;
+	bottom:0;
+	margin:0 auto;
+	padding-top:0;
+	padding-bottom:0;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+.cp_wrapper1 .left-side,.cp_wrapper1 .right-side{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.cp_wrapper1 .logo, .cp_wrapper1 .text{
+	margin:0 0 80px;
+}
+.cp_wrapper1 .inner .text {
+	margin:-30px 0 0 0;
+}
+.clock .clock-item{
+	width:150px;
+}
+.inner .text p{
+	padding:70px 0 0;
+}
+}
+
+@media (max-width:767px){
+.cp_wrapper1 .left-side,.cp_wrapper1 .right-side{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.cp_wrapper1 .logo, .cp_wrapper1 .text{
+	margin:0 0 70px;
+}
+.cp_wrapper1 .text p{
+	font-size:16px;
+	line-height:24px;
+}
+.clock .clock-item{
+	width:110px;
+}
+.inner .text .val{
+	font-size:30px;
+}
+.inner .text {
+	margin:-30px 0 0 0;
+}
+.inner .text p{
+	padding-top:50px;
+}
+.cp_wrapper1 .newsletter-box{
+	width:100%;
+}
+.cp_wrapper1 .newsletter-box .form-box input[type="text"]{
+	width:88%;
+}
+.cp_wrapper1 .newsletter-box .form-box .submit{
+	float:left;
+}
+/***cp-wrapper2 responive***/
+.cp_wrapper2 .newsletter-box .form-box{
+	width:100%;
+}
+.cp_wrapper2 .newsletter-box .form-box input[type="text"]{
+	width:65%;
+}
+.cp_wrapper2 .clock .clock-item{
+	margin:15px 10px;
+}
+}
+
+
+@media (max-width:480px){
+.cp_wrapper1 .right-side,.cp_wrapper1 .left-side{
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.cp_wrapper1 .logo, .cp_wrapper1 .text,.cp_wrapper2 .logo, .cp_wrapper2 .countdown{
+	margin:0 0 40px
+}
+.cp_wrapper1 .text p{
+	font-size:12px;
+}
+.inner .text p{
+	padding-top:30px;
+}
+.cp_wrapper1 .newsletter-box .form-box input[type="text"]{
+	width:80%;
+}
+.clock .clock-item{
+	margin:15px 18px;
+}
+/***cp-wrapper2 responive***/
+.cp_wrapper2{
+	padding:50px 0;
+}
+.cp_wrapper2 .inner .text p{
+	padding-top:50px;
+}
+.cp_wrapper2 .newsletter-box .form-box input[type="text"]{
+	width:63%;
+}
+.cp_wrapper2 .newsletter-box .form-box input[type="submit"]{
+	padding:8px 10px 9px;
+	font-size:14px;
+}
+
+}
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 940px) and (max-device-width : 1400px) {
+
+.cp_wrapper1 .items-container .logo, .cp_wrapper1 .text {margin-bottom:35px;}
+.cp_wrapper1 .text br {display:none;}
+.cp_wrapper1 .clock .clock-item {width:140px;}
+.cp_wrapper1 .inner .text {margin-top:-53px;}	
+	
+}
+.field-set-section{
+	position:relative;
+}
+

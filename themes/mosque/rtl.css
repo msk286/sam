@@ -1,0 +1,629 @@
+body {
+	direction: rtl;
+}
+#wp-calendar caption, .navbar .nav, .text-divider2 {
+	text-align: right;
+}
+.event_readmore .event_map {
+	text-align: right;
+}
+span.font_bread i {
+	margin-left: 8px;
+	font-size: 32px;
+}
+.testimonials .flex-direction-nav {
+	width: 100%;
+	left: 0px;
+}
+.blog_listing_wrapper h2 span.date_month_post:last-child, .blog_listing_wrapper span.date_month_post {
+	border-left: 1px solid #D0D0D0;
+	float: right;
+	border-right: 0px;
+	margin-right: 0px;
+	padding-right: 0px;
+	padding-left: 20px;
+	margin-left: 20px;
+}
+.event_detail_info {
+	right: 40px;
+}
+.flex-control-nav li:first-child {
+	margin: 0 0 0 5px !important;
+}
+#respond {
+	float: none !important;
+}
+#search-text {
+	float: right;
+}
+.navbar .nav, .navbar .nav > li {
+	float: right;
+}
+.footer_3 #latest_tweets {
+	padding-left: 0px !important;
+	padding-right: 50px;
+}
+.footer_3 #latest_tweets li {
+	width: 90% !important;
+}
+.footer_nav li:first-child {
+	margin-left: 20px !important;
+}
+.nav_search button {
+	right: 185px !important;
+}
+#cart .dropdown_cart_img img {
+	margin: 0px 0px 0px 8px;
+}
+.widget #cart .product_name {
+	float: right !important;
+}
+.pull-left {
+	float: right !important;
+}
+.page_title {
+	direction: rtl !important;
+}
+.page_title h2 {
+	border-right: 3px solid #1CC3C9;
+	padding-right: 12px;
+	border-left: 0;
+	padding-left: 0;
+}
+.woocommerce .woocommerce-result-count, .woocommerce-page .woocommerce-result-count {
+	float: right;
+}
+.cart_btn_wrapper {
+	float: left;
+}
+.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt {
+	margin-right: 10px;
+}
+.total_cart {
+	float: left;
+}
+.cart_table_holder table .product-name {
+	text-align: right;
+}
+.related_tile_social_wrapper h2 {
+	float: right;
+}
+.related_tile_social_wrapper .blog-bottom {
+	float: left;
+}
+#author_bio .author_Summary {
+	border-left: 1px solid #E2E2E2;
+	border-right: 0;
+}
+.view_posts {
+	float: left;
+}
+.widget.widget_nav_menu .menu li {
+	background-position: right 14px;
+}
+.menu li a {
+	text-align: right;
+}
+.widget.widget_pages li {
+	background-position: right 14px;
+}
+.widget_archive li, .widget_categories li {
+	text-align: left;
+}
+.widget_archive li a, .widget_categories li a {
+	float: right;
+}
+.blog_item h3 {
+	text-align: right;
+}
+.dropdown .inner, .inner_lyr {
+	text-align: right;
+}
+.blog_item .read_more {
+	float: left;
+}
+#map_abs {
+	right: auto;
+	left: 3%;
+}
+#logo {
+	float: left;
+}
+#product h3 a, #product h3 {
+	text-align: right;
+}
+#logo {
+	float: right;
+}
+#nav .navbar {
+	float: right !important;
+}
+#footer .popular_post ul li span, .sidebar .popular_post ul li span {
+	float: right;
+	margin-left: 20px;
+	margin-right: 0;
+}
+#donation_box .span10 {
+	float: right;
+}
+#donation_box h2 {
+	border-left: 0;
+	border-right: 3px solid #1CC3C9;
+	padding-right: 12px;
+	padding-left: 0;
+}
+.news_slider #img_holder {
+	float: right;
+}
+.news_slider .ns_desc {
+	margin-left: 0;
+	margin-right: 2.5641%;
+}
+#news .title {
+	text-align: right;
+	padding-right: 0;
+	padding-left: 45px;
+}
+#news .img_title i {
+	right: auto;
+	left: 10px;
+}
+p {
+	direction: rtl;
+}
+#news .bx-controls-direction a.bx-prev {
+	left: 0 !important;
+}
+#news .bx-controls-direction a.bx-next {
+	left: 21px !important;
+}
+#news .bx-controls-direction {
+	right: auto;
+	left: 0;
+}
+#news .img_title {
+	text-align: right;
+}
+#news .img_title p {
+	direction: rtl;
+}
+#slider_blog ul li .img {
+	float: right;
+}
+#slider_blog ul li .content {
+	margin-left: 0;
+	margin-right: 2.5641%;
+}
+#slider_blog .icon_date i {
+	float: right;
+	margin-left: 10px;
+}
+#slider_blog .icon_date {
+	float: right;
+	width: 100%;
+}
+#slider_blog .bx-controls-direction {
+	right: auto;
+	left: 20px;
+}
+#slider_blog .date {
+	float: right;
+}
+#banner .inner .span9 {
+	float: right;
+}
+#footer #banner {
+	float: none;
+}
+#banner #banner_rounded {
+	right: auto;
+	left: 30px;
+}
+.charity_title {
+	background: url("images/marathon_icon.png") no-repeat scroll 110px center transparent;
+	margin: 3px 16px -1px 0;
+	padding: 8px 54px 0 0;
+	float: right;
+}
+#slider_blog h4 {
+	float: left;
+	width: 100%;
+}
+.footer_nav li {
+	border-left: 1px solid #EEEEEE;
+	border-right: 0;
+	padding-left: 20px;
+	padding-right: 0;
+}
+#tweets.latest_tweets {
+	background-position: bottom left;
+}
+.footer_3 #latest_tweets {
+	border-right: 1px solid #BBBBBB;
+	border-left: 0;
+}
+#footer_left {
+	float: right;
+}
+.h-line {
+	left: auto;
+	right: 0;
+}
+.row-fluid .first, .row-fluid [class*="span"]:first-child {
+	margin-right: 0 !important;
+	margin-left: 0 !important;
+}
+.charity_counter_wrapper [class*="span"] {
+	margin: 0 !important;
+}
+.charity_counter_wrapper .span1 {
+	float: left !important;
+}
+.row-fluid [class*="span"] {
+	float: right;
+	margin-right: 2.127659574468085%;
+ *margin-right: 2.074468085106383%;
+	margin-left: 0 !important;
+}
+.sub-menu {
+	right: 0;
+}
+.sub-menu .sub-menu {
+	right: 100%;
+	left: auto;
+}
+.dropdown-menu, .sub-menu, .navbar-inner .children {
+	right: 0;
+	float: right;
+	left: auto;
+}
+.navbar .nav > li > .sub-menu:after, .navbar .nav .children:after {
+	right: 10px;
+	left: auto;
+}
+.navbar .nav > li > .sub-menu:before, .navbar .nav .children:before {
+	right: 9px;
+	left: auto;
+}
+.logo_container .span6 {
+	float: left;
+}
+#product {
+	text-align: right;
+}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+	float: right;
+}
+.woocommerce ul.products li.last, .woocommerce-page ul.products li.last {
+	margin: 0 3.8% 2.992em 0;
+}
+.woocommerce .products ul li, .woocommerce-page .products ul li, .woocommerce ul.products li, .woocommerce-page ul.products li {
+	float: right;
+}
+#header #cart_down_content.dropdown-menu {
+	left: -33px !important;
+	right: auto !important;
+}
+#cart_down_content #cart div {
+	float: right;
+}
+#cart_down_content .quantity {
+	margin: 0 0 0 20px;
+}
+#header .continue_shopping {
+	float: left;
+}
+#icon_toggle {
+	float: left;
+}
+.bx-viewport {
+	direction: ltr;
+}
+.bx-wrapper .bx-controls-direction a {
+	left: 0px;
+}
+.new-album-list .container-boxed {
+	position: relative;
+}
+.new-album-list .bx-wrapper .bx-next {
+	left: 3% !important;
+	right: auto !important;
+}
+.new-album-list .bx-wrapper .bx-prev {
+	left: 1% !important;
+	right: auto !important;
+}
+.news-title, .play-box .btns-row, .social-icons {
+	float: right;
+}
+.btn-row {
+	width: 100%;
+}
+.ticker-bar .container-fluid {
+	position: relative;
+}
+.ticker-bar .bx-prev {
+	left: 1% !important;
+	right: auto;
+}
+.ticker-bar .bx-next {
+	left: 2% !important;
+	right: auto;
+}
+.page_404 input[type="text"] {
+	text-align: left;
+}
+.search_click {
+	float: left;
+}
+.arrow-left {
+	right: -24px;
+	left: auto;
+}
+.socialicons {
+	float: left;
+}
+.places-slider {
+	direction: ltr;
+}
+.trave-home-blog .hb-content h3, .trave-home-blog .hb-content .post-head, .trave-home-blog .hb-content li, .travel-qslider .frame-box {
+	float: right;
+}
+.travel-qslider q {
+	text-align: right;
+}
+.ft-logo {
+	float: left;
+	text-align: left;
+}
+.auther-img, .comments-list .thumb, .hservice .readmore {
+	float: right;
+}
+#footer .widget_recent_entries li a, .readmore, .post-tags a, .post-tags, .post-title-tags .col-md-1.col-sm-1 {
+	float: right;
+}
+.post-tags ul > li {
+	float: right;
+	text-align: right;
+}
+.wrapper .about .nav-tabs > li, .wrapper .progress > span, #footer .widget_recent_entries li a:before, .blog-full .readmore, .blog-full .readmore, .pagination > li > a, .pagination > li > span, .product_meta, .single_variation, .woocommerce-tabs ul.tabs li, .thumb-caption a, .home-blog-slider a.read-post, .banner-caption .bleft, .classes-time .nav-tabs > li, .time-title, .classes-price .table-header, .classes-price .table-body, .ft-logo, .wrapper .classes-detail ul li .fa, .wrapper .trainers-box address ul li .fa, #cp_header7 .navigation-row .navbar-default li, .services-list .icon, .menu-list .thumb, .cp_our-menu .tab-content .menu-list li, .menu-list .text .left, .blog-list > li .text, .bg-travel-wrapper .navbar-nav > li {
+	float: right;
+}
+.list-style li:before {
+	right: 0;
+}
+.list-style li {
+	padding: 0 20px;
+}
+.banner-caption .cprice, .classes-price a.btn-style, .menu-list .text .rate, .chef-info .text {
+	float: left;
+}
+.progress .percentage {
+	float: left;
+	left: -2px;
+	right: inherit;
+}
+#footer .widget_recent_entries li a:before {
+	margin-right: inherit;
+	margin-left: 8px;
+}
+.home-menu .sub-menu > li, .home-blog-slider h3, .navigation-row .navbar-nav li a {
+	text-align: right;
+}
+.blog-home ul.flinks li {
+	border-left: 1px solid #fff;
+	border-right: 0;
+}
+.pro-box .thumb .sale {
+	left: 0px;
+}
+.classes-time .nav-tabs > li {
+	border-left: 1px solid #ccc;
+	border-right: 0px;
+}
+.classes-price a.btn-style, .wrapper .classes-detail ul li .fa, .wrapper .trainers-box address ul li .fa, .trainers-box .text-box a .fa {
+	margin: 0 0 0 15px;
+}
+#cp_header7 .navigation-row .navbar-default li:before {
+	left: inherit;
+	right: -8px;
+}
+.services-list .icon, .menu-list .thumb {
+	margin: 0 0 0 30px;
+}
+.text-left .thumb {
+	left: inherit;
+	right: 0;
+}
+.chef-info .text {
+	text-align: right;
+	padding: 40px 140px 55px 40px;
+}
+#cp_header7 .navigation-row .navbar-default li {
+	margin: 0 0 0 11px;
+}
+.cp_paralax ul > li:before {
+	margin-right: 0px
+}
+.preadmore {
+	float: right;
+}
+#centered, .scrollbar {
+	direction: ltr;
+}
+/*****************   New RTL = 3-7-2015   *******************/
+
+#wrapper {
+	overflow: hidden;
+}
+.navigation .sub-menu > li > a, .latest-seromns .text-box p, .cp_islamic_parallex_1 h2, .recent-post-2 .box .text-box p, body p, .about-welcome span, .about-welcome blockquote, .ui-tabs .ui-tabs-panel, ul li, .text-box, body .list-style li, .our-history .holder .history-box .text-box.pull-right h3, .our-history .holder .history-box .text-box.pull-right p, .upcoming-events-box .text-box p, .comments-list .tex-box, .more-services .pull-left, .more-services .pull-left p, .causes-testimonials .holder .fa {
+	text-align: right !important;
+}
+.detail-row ul li {
+	float: right;
+	padding: 0 0 0 19px
+}
+.player-btn-row-2 ul li {
+	float: right;
+	margin: 0 45px 0 0;
+}
+.detail-row ul li a .fa {
+	padding: 0 0 0 5px;
+}
+.upcoming-section-2 .frame {
+	float: right;
+	margin: 0 0 0 30px;
+}
+.upcoming-section-2 .text-box, .upcoming-section-2 .text-box p, .twitter-box {
+	text-align: right;
+}
+.upcoming-section-2 .text-box a.link {
+	float: right;
+	padding: 0 0 32px 52px;
+}
+#footer .widget.widget-holder ul li strong.date {
+	float: right;
+	margin: 0 0 0 20px;
+}
+#footer .tagcloud a {
+	float: right;
+}
+.list-style-cp-2 li::before {
+	padding: 0 0 0 18px;
+}
+.team-member-box .text-box p {
+	margin: 0 0 23px 26px;
+}
+.bar > span {
+	text-align: left;
+}
+.causes-listing ul li, .event-listing .upcoming-events-box .text-box strong.time, .event-listing a.btn-8, .map-row .countdown-box, .blog-detail a.btn-8, #inner-banner h1, .sidebar_section .tagcloud a, .comment-text, .comment-text p.meta, .comment-text .description, .comment-text .star-rating, .donate-form-area ul li, .donate-form-area input[type="submit"], .team-social li .contact-1 address, .sidebar_section .tagcloud a, .detail-row {
+	float: right;
+}
+.event-listing .upcoming-events-box .text-box {
+	padding: 0 30px 0 0;
+}
+.upcoming-events-box .text-box strong.time {
+	margin: 0 0 0 30px;
+}
+.map-row .countdown-box .countdown_section::before {
+	display: none;
+}
+.post-listing .detail-row ul li a .fa, .post-listing .detail-row ul li .fa, .login-bar ul li a .fa, .news-list .detail-row ul li a .fa, .blog-detail a.like .fa {
+	padding: 0 0 0 6px;
+}
+.sidebar_section strong.date, .sidebar .sidebar_section .frame, .round-box.service_1, .round-box.service_2 {
+	float: right;
+	margin: 0 0 0 30px
+}
+.comment-frame {
+	float: right;
+	margin: 0 0 0 20px;
+}
+.comments-list .tex-box a.comment-reply-link {
+	float: left;
+}
+.breadcrumb.pull-right {
+	float: left !important;
+}
+.woocommerce table td {
+	padding: 5px
+}
+#comments .commentlist img {
+	float: right;
+	margin: 0 0 20px 20px;
+}
+.cp-woocommerce .woocommerce-product-rating .star-rating {
+	margin: 0.5em 4px 0 10px;
+}
+blockquote {
+	border-left: inherit;
+	border-right: 5px solid #eee;
+}
+.contact-1 address ul li .fa {
+	padding: 0 0 0 10px
+}
+.donate-form-area ul li:first-child {
+	margin:0 0 0 30px;
+}
+.donate-form-area input[type="submit"] {
+	margin-bottom: 30px;
+}
+.team-section-2 .team-box-2 .text-box {
+	text-align: center !important
+}
+.player-btn-row-2 ul li:first-child {
+	margin: 0 20px 0 0;
+}
+.comment-form input[type="text"], .comment-form input[type="email"] {
+	text-align: right;
+}
+.team-member-detail-box strong {
+	float: right;
+	margin-left: 10px;
+}
+.related-naat-box .text-box {
+	float: right;
+	margin-right: 50px;
+	overflow: hidden;
+}
+.features-box .text-box h2 {
+	text-align: center;
+}
+.blog-box .text-box {
+	padding: 20px 0 0
+}
+.blog-row ul li a .fa, .causes-list-box .text-box a .fa, .comments-list .tex-box .date-time-cp .fa {
+	padding: 0 0 0 7px;
+}
+.upcoming-section-2 .btn-container a.btn-3, #vertical-tabs .nav-tabs, .progress-bar {
+	float: right;
+}
+.blog-box .frame > strong, .upcoming-section-2 .frame .date, .blog-detail .frame strong {
+	left: inherit;
+	right: 0;
+}
+.text-box .blog-row ul li, .upcoming-section-2 .text-box, .widget_tag_cloud .tagcloud a, .blog-detail .tags a, .tags strong.title, #main-woo .quantity {
+	float: right;
+}
+#footer .box-1 ul li .fa {
+	margin: 0 0 0 10px;
+}
+.navigation .navbar .nav {
+	padding: 0px;
+}
+body .welcome-sec.cp_about p, .features-2-box p, .plan-box ul li, .testimonials-section .holder h2, .testimonials-section .holder p {
+	text-align: center !important;
+}
+.cp_about_mosque #vertical-tabs .tab-content {
+	padding: 0 30px 0 0;
+}
+.newsletter_mosque .newsletter-form button, .cp_ignition_content .causes-list-progress .progress .sr-only {
+	left: 0;
+	right: inherit;
+}
+.causes-listing .causes-list-box .cp_ignition_image {
+	float: right;
+	margin: 0 0 0 15px;
+}
+.causes-listing .causes-list-box .cp_ignition_content {
+	float: left;
+margin:margin:0 15px 0 0;
+}
+.cp_ignition_share .ignition_social_icons {
+	height: 40px;
+}
+.contact-1 address {
+	width: 100%;
+}
+
+#banner .woocommerce-breadcrumb { float:left;}
+
+.images {float:right;}
+.cp-woocommerce .product .onsale {left:inherit; right:20px;}
+
+.woocommerce table td {text-align:right;}
+.woocommerce-breadcrumb a {color:#fff;}
+.team-detail-area ul li {padding-right:30px;}
+
+.blog-detail blockquote {border-left:0px; border-right:5px solid rgba(0,0,0,.2) }

@@ -1,0 +1,4231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Futuristik\n"
+"POT-Creation-Date: 2014-05-08 19:07+0500\n"
+"PO-Revision-Date: 2014-05-08 19:08+0500\n"
+"Last-Translator: \n"
+"Language-Team: CrunchPress Team <support@crunchpress.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../team-option.php:23
+msgid "Add New Our Team"
+msgstr ""
+
+#: ../team-option.php:24
+msgid "Edit Our Team"
+msgstr ""
+
+#: ../team-option.php:25
+msgid "New Our Team"
+msgstr ""
+
+#: ../team-option.php:26
+msgid "View Our Team"
+msgstr ""
+
+#: ../team-option.php:27
+msgid "Search Our Team"
+msgstr ""
+
+#: ../team-option.php:28
+msgid "Nothing found"
+msgstr ""
+
+#: ../team-option.php:29
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../team-option.php:56
+msgid "Our Team Options"
+msgstr ""
+
+#: ../team-option.php:100
+#: ../ultimate-futuristik/framework/options/post-option.php:64
+msgid "SOCIAL NETWORKING"
+msgstr ""
+
+#: ../team-option.php:115
+msgid "Turn On/Off Social Sharing on Team Detail."
+msgstr ""
+
+#: ../team-option.php:122
+msgid "DESIGNATION"
+msgstr ""
+
+#: ../team-option.php:127
+msgid "Please Enter Here Designation of the person."
+msgstr ""
+
+#: ../team-option.php:132
+msgid "Facebook Profile"
+msgstr ""
+
+#: ../team-option.php:137 ../team-option.php:147 ../team-option.php:157
+msgid "Please Enter Url for social profile."
+msgstr ""
+
+#: ../team-option.php:142
+msgid "Linked In Profile"
+msgstr ""
+
+#: ../team-option.php:152
+msgid "Twitter Profile"
+msgstr ""
+
+#: ../team-option.php:258 ../team-option.php:350
+#: ../ultimate-futuristik/archive.php:184
+#: ../ultimate-futuristik/search.php:182
+#: ../ultimate-futuristik/framework/options/blog-elements.php:583
+#: ../ultimate-futuristik/framework/options/page-elements.php:686
+#: ../ultimate-futuristik/framework/options/page-elements.php:1504
+#: ../ultimate-futuristik/framework/options/product-option.php:250
+#: ../ultimate-futuristik/framework/options/product-option.php:349
+#: ../ultimate-futuristik/framework/options/product-option.php:469
+#: ../ultimate-futuristik/framework/options/product-option.php:487
+#: ../ultimate-futuristik/framework/options/product-option.php:525
+#: ../ultimate-futuristik/framework/options/product-option.php:608
+msgid "Read More"
+msgstr ""
+
+#: ../twentyfourteen/404.php:17 ../twentythirteen/404.php:16
+msgid "Not Found"
+msgstr ""
+
+#: ../twentyfourteen/404.php:21 ../twentythirteen/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:31 ../twentythirteen/archive.php:29
+#: ../twentytwelve/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:34 ../twentythirteen/archive.php:31
+#: ../twentytwelve/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:37 ../twentythirteen/archive.php:33
+#: ../twentytwelve/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:40
+#: ../twentyfourteen/taxonomy-post_format.php:51
+#: ../twentythirteen/archive.php:35 ../twentytwelve/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../twentyfourteen/author.php:31 ../twentythirteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentyfourteen/category.php:20 ../twentythirteen/category.php:19
+#: ../twentytwelve/category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:34 ../twentyfourteen/comments.php:52
+#: ../twentythirteen/comments.php:45 ../twentytwelve/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:35 ../twentyfourteen/comments.php:53
+#: ../twentythirteen/comments.php:46 ../twentytwelve/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:36 ../twentyfourteen/comments.php:54
+#: ../twentythirteen/comments.php:47 ../twentytwelve/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:59 ../twentythirteen/comments.php:52
+#: ../twentytwelve/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:180
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:180
+#: ../ultimate-futuristik/archive.php:166
+#: ../ultimate-futuristik/featured-content.php:61
+#: ../ultimate-futuristik/index.php:69 ../ultimate-futuristik/search.php:164
+#: ../ultimate-futuristik/single-albums.php:139
+#: ../ultimate-futuristik/framework/options/blog-elements.php:591
+msgid "1 Comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:180
+#: ../ultimate-futuristik/archive.php:166
+#: ../ultimate-futuristik/comments.php:13
+#: ../ultimate-futuristik/featured-content.php:61
+#: ../ultimate-futuristik/index.php:69 ../ultimate-futuristik/search.php:164
+#: ../ultimate-futuristik/single-albums.php:140
+#: ../ultimate-futuristik/framework/options/blog-elements.php:591
+msgid "% Comments"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:40
+#: ../twentyfourteen/content-audio.php:40
+#: ../twentyfourteen/content-gallery.php:40
+#: ../twentyfourteen/content-image.php:40
+#: ../twentyfourteen/content-link.php:40 ../twentyfourteen/content-page.php:28
+#: ../twentyfourteen/content-quote.php:40
+#: ../twentyfourteen/content-video.php:40 ../twentyfourteen/content.php:42
+#: ../twentyfourteen/image.php:34
+#: ../twentyfourteen/page-templates/contributors.php:35
+#: ../twentythirteen/content-aside.php:20
+#: ../twentythirteen/content-aside.php:28
+#: ../twentythirteen/content-audio.php:31
+#: ../twentythirteen/content-chat.php:29
+#: ../twentythirteen/content-gallery.php:39
+#: ../twentythirteen/content-image.php:35
+#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-quote.php:25
+#: ../twentythirteen/content-status.php:19
+#: ../twentythirteen/content-video.php:35 ../twentythirteen/content.php:31
+#: ../twentythirteen/image.php:44 ../twentythirteen/page.php:39
+#: ../twentytwelve/content-aside.php:26 ../twentytwelve/content-image.php:26
+#: ../twentytwelve/content-link.php:24 ../twentytwelve/content-page.php:24
+#: ../twentytwelve/content-quote.php:23 ../twentytwelve/content-status.php:40
+#: ../twentytwelve/content.php:48 ../twentytwelve/functions.php:349
+#: ../twentytwelve/image.php:37
+#: ../ultimate-futuristik/framework/options/page-elements.php:959
+#: ../ultimate-futuristik/woocommerce/myaccount/my-address.php:45
+#: ../woocommerce_new/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:46
+#: ../twentyfourteen/content-audio.php:46
+#: ../twentyfourteen/content-gallery.php:46
+#: ../twentyfourteen/content-image.php:46
+#: ../twentyfourteen/content-link.php:46
+#: ../twentyfourteen/content-quote.php:46
+#: ../twentyfourteen/content-video.php:46 ../twentyfourteen/content.php:54
+#: ../twentyfourteen/inc/widgets.php:113 ../twentyfourteen/inc/widgets.php:158
+#: ../twentythirteen/content-aside.php:13
+#: ../twentythirteen/content-audio.php:24
+#: ../twentythirteen/content-gallery.php:24
+#: ../twentythirteen/content-image.php:23
+#: ../twentythirteen/content-link.php:24
+#: ../twentythirteen/content-quote.php:13
+#: ../twentythirteen/content-status.php:13
+#: ../twentythirteen/content-video.php:23 ../twentythirteen/content.php:41
+#: ../twentytwelve/content-aside.php:15 ../twentytwelve/content-image.php:13
+#: ../twentytwelve/content-link.php:14 ../twentytwelve/content-quote.php:13
+#: ../twentytwelve/content-status.php:31 ../twentytwelve/content.php:41
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:48
+#: ../twentyfourteen/content-audio.php:48
+#: ../twentyfourteen/content-gallery.php:48
+#: ../twentyfourteen/content-image.php:48
+#: ../twentyfourteen/content-link.php:48 ../twentyfourteen/content-page.php:22
+#: ../twentyfourteen/content-quote.php:48
+#: ../twentyfourteen/content-video.php:48 ../twentyfourteen/content.php:56
+#: ../twentyfourteen/image.php:54 ../twentythirteen/content-aside.php:14
+#: ../twentythirteen/content-audio.php:25
+#: ../twentythirteen/content-chat.php:24
+#: ../twentythirteen/content-gallery.php:25
+#: ../twentythirteen/content-image.php:24
+#: ../twentythirteen/content-link.php:25
+#: ../twentythirteen/content-quote.php:14
+#: ../twentythirteen/content-status.php:14
+#: ../twentythirteen/content-video.php:24 ../twentythirteen/content.php:42
+#: ../twentythirteen/image.php:70 ../twentythirteen/page.php:35
+#: ../twentytwelve/content-page.php:21 ../twentytwelve/content.php:42
+#: ../twentytwelve/image.php:102
+#: ../ultimate-futuristik/featured-content.php:79
+#: ../ultimate-futuristik/index.php:88
+#: ../ultimate-futuristik/single-albums.php:152
+#: ../ultimate-futuristik/single-teams.php:106
+#: ../ultimate-futuristik/single.php:121
+#: ../ultimate-futuristik/framework/options/page-elements.php:953
+msgid "Pages:"
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:12 ../twentythirteen/content-none.php:12
+#: ../twentytwelve/content-none.php:13 ../twentytwelve/index.php:49
+#: ../twentytwelve/search.php:34
+msgid "Nothing Found"
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:18 ../twentythirteen/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:27 ../twentythirteen/content-none.php:27
+#: ../twentytwelve/404.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#: ../twentytwelve/footer.php:16
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#: ../twentytwelve/footer.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:83
+msgid "Top primary menu"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:175
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:177
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:184
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:186
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:193
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:195 ../twentythirteen/functions.php:237
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:260
+msgid "Previous"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:261
+msgid "Next"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:500 ../twentythirteen/functions.php:220
+#: ../twentytwelve/functions.php:215
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../twentyfourteen/header.php:48
+msgid "Search"
+msgstr ""
+
+#: ../twentyfourteen/header.php:52 ../twentytwelve/functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: ../twentyfourteen/header.php:53 ../twentythirteen/header.php:44
+#: ../twentytwelve/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentyfourteen/image.php:65
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfourteen/image.php:66
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfourteen/search.php:18 ../twentythirteen/search.php:18
+#: ../twentytwelve/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../twentyfourteen/tag.php:22 ../twentythirteen/tag.php:21
+#: ../twentytwelve/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:30
+#: ../twentyfourteen/inc/widgets.php:53
+msgid "Asides"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:33
+#: ../twentyfourteen/inc/widgets.php:54
+msgid "Images"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:36
+#: ../twentyfourteen/inc/widgets.php:55
+msgid "Videos"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:39
+#: ../twentyfourteen/inc/widgets.php:56
+#: ../ultimate-futuristik/framework/options/post-option.php:100
+msgid "Audio"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:42
+#: ../twentyfourteen/inc/widgets.php:57
+msgid "Quotes"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:45
+#: ../twentyfourteen/inc/widgets.php:58
+msgid "Links"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:48
+#: ../twentyfourteen/inc/widgets.php:59
+msgid "Galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/back-compat.php:41
+#: ../twentyfourteen/inc/back-compat.php:53
+#: ../twentyfourteen/inc/back-compat.php:68
+#, php-format
+msgid ""
+"Twenty Fourteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:19
+#: ../twentyfourteen/inc/customizer.php:20
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:28
+msgid "Site Title Color"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:31
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:35
+#: ../twentyfourteen/inc/featured-content.php:408
+#: ../ultimate-futuristik/framework/extensions/featured-content.php:408
+msgid "Featured Content"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:36
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:47
+msgid "Layout"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:51
+#: ../ultimate-futuristik/framework/options/product-option.php:418
+msgid "Grid"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:52
+#: ../ultimate-futuristik/framework/options/post-option.php:102
+msgid "Slider"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:98
+msgid "Twenty Fourteen"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:101
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by the <a href=\"%1$s\">featured</a> tag; you "
+"can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; "
+"Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> "
+"will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:102
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Twenty "
+"Fourteen uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:103
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Twenty Fourteen documentation</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:409
+#: ../ultimate-futuristik/framework/extensions/featured-content.php:409
+#, php-format
+msgid ""
+"Use the <a href=\"%1$s\">\"featured\" tag</a> to feature your posts. You can "
+"change this to a tag of your choice; if no posts match the tag, <a href="
+"\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:428
+#: ../ultimate-futuristik/framework/extensions/featured-content.php:428
+msgid "Tag Name"
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:433
+#: ../ultimate-futuristik/framework/extensions/featured-content.php:433
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:47 ../twentytwelve/image.php:41
+#: ../ultimate-futuristik/framework/extensions/pagination.php:46
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:48 ../twentytwelve/image.php:42
+#: ../ultimate-futuristik/framework/extensions/pagination.php:47
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:55
+#: ../twentythirteen/functions.php:272
+msgid "Posts navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:84
+#: ../twentythirteen/functions.php:308 ../twentytwelve/functions.php:288
+#: ../twentytwelve/single.php:20
+msgid "Post navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:88
+#: ../ultimate-futuristik/framework/extensions/pagination.php:81
+#: ../ultimate-futuristik/framework/extensions/pagination.php:105
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:90
+#: ../ultimate-futuristik/framework/extensions/pagination.php:83
+#: ../ultimate-futuristik/framework/extensions/pagination.php:109
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:91
+#: ../ultimate-futuristik/framework/extensions/pagination.php:84
+#: ../ultimate-futuristik/framework/extensions/pagination.php:110
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:110
+#: ../twentythirteen/functions.php:332
+msgid "Sticky"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:44
+msgid "Twenty Fourteen Ephemera"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:46
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:189
+#, php-format
+msgid "More %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:236
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_facebook_widget.php:23
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_newsletter_widget.php:19
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_news_widget.php:26
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_popular_posts_widget.php:19
+#: ../ultimate-futuristik/framework/extensions/widgets/product_slider_widget.php:18
+msgid "Title:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:239
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:242
+msgid "Post format to show:"
+msgstr ""
+
+#: ../twentythirteen/404.php:21 ../twentytwelve/404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:26 ../twentytwelve/author.php:63
+#: ../twentytwelve/content.php:59
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:30 ../twentytwelve/content.php:63
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "One comment so far"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../twentythirteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../twentythirteen/functions.php:97
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../twentythirteen/functions.php:235
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:245
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:247
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: ../twentythirteen/functions.php:276 ../twentytwelve/functions.php:289
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../twentythirteen/functions.php:280 ../twentytwelve/functions.php:290
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/functions.php:338 ../twentythirteen/functions.php:344
+#: ../twentytwelve/functions.php:376 ../twentytwelve/functions.php:379
+msgid ", "
+msgstr ""
+
+#: ../twentythirteen/functions.php:353 ../twentytwelve/functions.php:390
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:379 ../twentytwelve/content-aside.php:20
+#: ../twentytwelve/content-link.php:18 ../twentytwelve/content-quote.php:17
+#: ../twentytwelve/content-status.php:15
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../twentythirteen/header.php:43 ../twentytwelve/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: ../twentythirteen/image.php:22
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../twentythirteen/image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../twentythirteen/image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentythirteen/image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/taxonomy-post_format.php:23
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../twentythirteen/inc/back-compat.php:41
+#: ../twentythirteen/inc/back-compat.php:53
+#: ../twentythirteen/inc/back-compat.php:68
+#, php-format
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentytwelve/author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:30
+msgid "Leave a reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:30
+msgid "1 Reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:30
+msgid "% Replies"
+msgstr ""
+
+#: ../twentytwelve/content-link.php:12
+msgid "Link"
+msgstr ""
+
+#: ../twentytwelve/content-none.php:17 ../twentytwelve/index.php:53
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../twentytwelve/content.php:16
+msgid "Featured post"
+msgstr ""
+
+#: ../twentytwelve/functions.php:244
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../twentytwelve/functions.php:246
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: ../twentytwelve/functions.php:254
+msgid "First Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:256 ../twentytwelve/functions.php:266
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+
+#: ../twentytwelve/functions.php:264
+msgid "Second Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:317
+#: ../ultimate-futuristik/framework/extensions/comment.php:25
+msgid "Pingback:"
+msgstr ""
+
+#: ../twentytwelve/functions.php:317
+#: ../ultimate-futuristik/framework/extensions/comment.php:27
+msgid "(Edit)"
+msgstr ""
+
+#: ../twentytwelve/functions.php:332
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: ../twentytwelve/functions.php:338
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../twentytwelve/functions.php:344
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../twentytwelve/functions.php:353
+msgid "Reply"
+msgstr ""
+
+#: ../twentytwelve/functions.php:396
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:398
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:400
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../twentytwelve/index.php:38
+msgid "No posts to display"
+msgstr ""
+
+#: ../twentytwelve/index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../twentytwelve/search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../ultimate-futuristik/404.php:37
+msgid "404"
+msgstr ""
+
+#: ../ultimate-futuristik/404.php:39
+msgid "Page Not Found!"
+msgstr ""
+
+#: ../ultimate-futuristik/404.php:40
+msgid "Page you are looking for has been removed. Back to HOME"
+msgstr ""
+
+#: ../ultimate-futuristik/archive.php:60 ../ultimate-futuristik/search.php:58
+msgid "Categories"
+msgstr ""
+
+#: ../ultimate-futuristik/archive.php:62 ../ultimate-futuristik/archive.php:65
+#: ../ultimate-futuristik/archive.php:67 ../ultimate-futuristik/search.php:60
+#: ../ultimate-futuristik/search.php:63 ../ultimate-futuristik/search.php:65
+msgid "Archive for"
+msgstr ""
+
+#: ../ultimate-futuristik/archive.php:69 ../ultimate-futuristik/search.php:67
+msgid "Search results for"
+msgstr ""
+
+#: ../ultimate-futuristik/archive.php:71 ../ultimate-futuristik/search.php:69
+msgid "Tag Archives"
+msgstr ""
+
+#: ../ultimate-futuristik/archive.php:73 ../ultimate-futuristik/archive.php:91
+#: ../ultimate-futuristik/search.php:71 ../ultimate-futuristik/search.php:89
+msgid "Archive by Author"
+msgstr ""
+
+#: ../ultimate-futuristik/archive.php:108
+#: ../ultimate-futuristik/search.php:106
+#: ../ultimate-futuristik/single-event.php:210
+#: ../ultimate-futuristik/single.php:156
+msgid "Follow Me"
+msgstr ""
+
+#: ../ultimate-futuristik/archive.php:165
+#: ../ultimate-futuristik/featured-content.php:60
+#: ../ultimate-futuristik/index.php:68 ../ultimate-futuristik/search.php:163
+#: ../ultimate-futuristik/framework/options/blog-elements.php:590
+msgid "by"
+msgstr ""
+
+#: ../ultimate-futuristik/archive.php:166
+#: ../ultimate-futuristik/featured-content.php:61
+#: ../ultimate-futuristik/index.php:69 ../ultimate-futuristik/search.php:164
+#: ../ultimate-futuristik/single-albums.php:138
+#: ../ultimate-futuristik/framework/options/blog-elements.php:591
+msgid "0 Comment"
+msgstr ""
+
+#: ../ultimate-futuristik/archive.php:166
+#: ../ultimate-futuristik/featured-content.php:61
+#: ../ultimate-futuristik/index.php:69 ../ultimate-futuristik/search.php:164
+#: ../ultimate-futuristik/single-albums.php:141
+#: ../ultimate-futuristik/framework/options/blog-elements.php:591
+msgid "Comments are off"
+msgstr ""
+
+#: ../ultimate-futuristik/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../ultimate-futuristik/comments.php:13
+msgid "No Comment"
+msgstr ""
+
+#: ../ultimate-futuristik/comments.php:13
+msgid "One Comment"
+msgstr ""
+
+#: ../ultimate-futuristik/comments.php:30
+#: ../ultimate-futuristik/framework/options/page-elements.php:1203
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:62
+#: ../woocommerce_new/single-product-reviews.php:62
+msgid "Name"
+msgstr ""
+
+#: ../ultimate-futuristik/comments.php:36
+#: ../ultimate-futuristik/framework/options/page-elements.php:1207
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:64
+#: ../woocommerce_new/single-product-reviews.php:64
+msgid "Email"
+msgstr ""
+
+#: ../ultimate-futuristik/comments.php:40
+#: ../ultimate-futuristik/framework/options/page-elements.php:1211
+msgid "Website"
+msgstr ""
+
+#: ../ultimate-futuristik/comments.php:45
+msgid "Comment Here"
+msgstr ""
+
+#: ../ultimate-futuristik/comments.php:50
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../ultimate-futuristik/functions.php:262
+msgid "MyTheme Options"
+msgstr ""
+
+#: ../ultimate-futuristik/functions.php:265
+msgid "Allows you to customize some example settings for crunchpress."
+msgstr ""
+
+#: ../ultimate-futuristik/functions.php:284
+msgid "Link Color & Button Color"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:105
+msgid "Amazon"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:106
+msgid "Itunes"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:107
+msgid "Sound Cloud"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:135
+msgid "Posted on"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:171
+msgid "Album Or Artist Songs"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:239
+#: ../ultimate-futuristik/single-albums.php:250
+msgid "play"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:249
+msgid "previous"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:251
+msgid "pause"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:252
+msgid "next"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:253
+msgid "mute"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:254
+msgid "unmute"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:255
+msgid "max volume"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:261
+msgid "repeat"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:262
+msgid "repeat off"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:279
+msgid "Update Required"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:280
+msgid ""
+"To play the media you will need to either update your browser to a recent "
+"version or update your"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:280
+msgid "Flash plugin"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:287
+msgid "Lyrics"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:288
+#: ../ultimate-futuristik/woocommerce/emails/email-order-items.php:48
+#: ../ultimate-futuristik/woocommerce/emails/plain/email-order-items.php:48
+#: ../woocommerce_new/emails/email-order-items.php:48
+#: ../woocommerce_new/emails/plain/email-order-items.php:48
+msgid "Download"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:358
+msgid "Share This Album"
+msgstr ""
+
+#: ../ultimate-futuristik/single-albums.php:380
+msgid "Written by"
+msgstr ""
+
+#: ../ultimate-futuristik/single-event.php:227
+msgid "Booking"
+msgstr ""
+
+#: ../ultimate-futuristik/single-ignition_product.php:95
+#: ../ultimate-futuristik/framework/options/ignitiondeck-option.php:127
+msgid "Donated"
+msgstr ""
+
+#: ../ultimate-futuristik/single-ignition_product.php:98
+msgid "Raised"
+msgstr ""
+
+#: ../ultimate-futuristik/single-ignition_product.php:98
+#: ../ultimate-futuristik/framework/options/page-elements.php:1574
+msgid "Goal"
+msgstr ""
+
+#: ../ultimate-futuristik/single-ignition_product.php:104
+#: ../ultimate-futuristik/framework/options/ignitiondeck-option.php:136
+#: ../ultimate-futuristik/framework/options/page-elements.php:1583
+msgid "Days Left"
+msgstr ""
+
+#: ../ultimate-futuristik/single-ignition_product.php:105
+msgid "Make a Donation"
+msgstr ""
+
+#: ../ultimate-futuristik/single-ignition_product.php:158
+msgid "Donation Tiers"
+msgstr ""
+
+#: ../ultimate-futuristik/single-ignition_product.php:170
+#: ../ultimate-futuristik/single-ignition_product.php:191
+msgid "Pledge"
+msgstr ""
+
+#: ../ultimate-futuristik/single-ignition_product.php:170
+#: ../ultimate-futuristik/single-ignition_product.php:191
+msgid "Limited"
+msgstr ""
+
+#: ../ultimate-futuristik/single-ignition_product.php:170
+#: ../ultimate-futuristik/single-ignition_product.php:191
+msgid "Spots Only"
+msgstr ""
+
+#: ../ultimate-futuristik/single-ignition_product.php:176
+#: ../ultimate-futuristik/single-ignition_product.php:197
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:327
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:475
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:672
+msgid "Donate"
+msgstr ""
+
+#: ../ultimate-futuristik/single-portfolio.php:98
+msgid "Project Information"
+msgstr ""
+
+#: ../ultimate-futuristik/single-portfolio.php:120
+msgid "Project Detail"
+msgstr ""
+
+#: ../ultimate-futuristik/single-portfolio.php:123
+msgid "Rating"
+msgstr ""
+
+#: ../ultimate-futuristik/single-portfolio.php:130
+msgid "Latest Projects"
+msgstr ""
+
+#: ../ultimate-futuristik/single.php:92
+#: ../ultimate-futuristik/framework/options/blog-elements.php:144
+msgid "<i class=\"fa fa-comments-o\"></i>0 Comment"
+msgstr ""
+
+#: ../ultimate-futuristik/single.php:93
+#: ../ultimate-futuristik/framework/options/blog-elements.php:145
+msgid "<i class=\"fa fa-comments-o\"></i>1 Comment"
+msgstr ""
+
+#: ../ultimate-futuristik/single.php:94
+#: ../ultimate-futuristik/framework/options/blog-elements.php:146
+msgid "<i class=\"fa fa-comments-o\"></i>% Comments"
+msgstr ""
+
+#: ../ultimate-futuristik/single.php:95
+#: ../ultimate-futuristik/framework/options/blog-elements.php:147
+msgid "<i class=\"fa fa-comments-o\"></i>Comments are off"
+msgstr ""
+
+#: ../ultimate-futuristik/single.php:101
+#: ../ultimate-futuristik/framework/options/blog-elements.php:153
+msgid "Share it"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:60
+msgid "Logo Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:63
+msgid "Style & Color Scheme"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:66
+msgid "Header Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:69
+msgid "Footer Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:72
+msgid "MISC Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:76
+msgid "User API Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:90
+#: ../ultimate-futuristik/framework/cp_options_default_pages.php:57
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:124
+#: ../ultimate-futuristik/framework/cp_options_newsletter.php:54
+#: ../ultimate-futuristik/framework/cp_options_sidebar.php:55
+#: ../ultimate-futuristik/framework/cp_options_slider.php:57
+#: ../ultimate-futuristik/framework/cp_options_social.php:56
+#: ../ultimate-futuristik/framework/cp_options_typography.php:124
+msgid "Save Options Complete"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:248
+msgid "Logo"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:256
+msgid "Upload logo image here, PNG, Gif, JPEG, JPG format supported only."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:276
+#: ../ultimate-futuristik/framework/cp-option.php:812
+msgid "Width"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:281
+msgid ""
+"Please scroll Left to Right to adjust logo image width, you can also use "
+"Arrow keys UP,Down - Left,Right."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:283
+#: ../ultimate-futuristik/framework/cp-option.php:297
+#: ../ultimate-futuristik/framework/cp_options_typography.php:618
+#: ../ultimate-futuristik/framework/cp_options_typography.php:630
+#: ../ultimate-futuristik/framework/cp_options_typography.php:643
+#: ../ultimate-futuristik/framework/cp_options_typography.php:655
+#: ../ultimate-futuristik/framework/cp_options_typography.php:667
+#: ../ultimate-futuristik/framework/cp_options_typography.php:679
+#: ../ultimate-futuristik/framework/cp_options_typography.php:691
+msgid "px"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:290
+#: ../ultimate-futuristik/framework/cp-option.php:823
+msgid "Height"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:295
+msgid ""
+"Please scroll Left to Right to adjust logo image height, you can also use "
+"Arrow keys UP,Down - Left,Right."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:305
+#: ../ultimate-futuristik/framework/options/page-option.php:315
+msgid "SELECT LAYOUT"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:314
+msgid "Please select website layout Full or Boxed."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:326
+msgid "BOXED LAYOUT BACKGROUND"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:338
+msgid "COLOR SCHEME"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:344
+msgid ""
+"Please select any color from color palette to use as color scheme (it will "
+"effect on all headings and anchors), leaving blank color scheme will be auto "
+"selected as default."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:353
+msgid "COLOR SCHEME 1"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:359
+msgid ""
+"Please select any color from color palette to use as heading color scheme "
+"(it will effect on all headings and anchors), leaving blank color scheme "
+"will be auto selected as default."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:368
+#: ../ultimate-futuristik/framework/cp-option.php:560
+msgid "SELECT BACKGROUND TYPE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:373
+msgid "Background Pattern"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:374
+msgid "Background Color"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:375
+msgid "Background Image"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:378
+msgid "Please select background pattern or background color."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:434
+msgid "BACKGROUND COLOR"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:440
+msgid ""
+"Please select any color from color palette to use as background color, "
+"leaving blank background will be auto selected as default background."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:449
+msgid "Upload Background Pattern"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:469
+msgid ""
+"Upload background pattern for your theme this option provide you access to "
+"put your own image to use as background pattern."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:489
+msgid "Upload Background Image"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:509
+msgid ""
+"Upload background Image for your theme this option provide you access to put "
+"your own image to use as background Image."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:531
+msgid "Image Position"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:552
+msgid "You can manage background image position in this area."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:578
+msgid ""
+"You can manage your image repeat whether its repeated horizontal verticle or "
+"both."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:586
+msgid "Image Attachment"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:602
+msgid "You can manage your background image attachment fixed or scroll."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:614
+msgid "SELECT HEADER LAYOUT"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:627
+msgid "Please select website default header style from dropdown."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:635
+msgid "Apply Header Style On All Pages"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:644
+#: ../ultimate-futuristik/framework/cp-option.php:688
+msgid ""
+"You can turn On/Off Top Bar. Note: Turning it off Search and Top Social "
+"Networking Icons will be activated."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:645
+msgid ""
+"You can turn On/Off to add above header style apply on all pages turning it "
+"off page settings will be apply on each page."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:655
+msgid "HEADER CODE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:659
+msgid ""
+"Please write css code for you theme if you want to put some extra code in "
+"css for styling purpose only."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:666
+msgid "GOOGLE WEBMASTER VERIFY CODE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:670
+msgid ""
+"Please paste google, Bing, yahoo etc analytics code here to validate your "
+"site in webmaster."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:679
+msgid "TOP BAR"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:689
+msgid "You can turn On/Off Top Bar."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:696
+msgid "TOP CART"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:704
+msgid "You can turn On/Off Top Cart Baskit from top menu."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:711
+msgid "TOP SOCIAL NETWORK ICONS"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:719
+msgid "You can turn On/Off Top social network icons from main menu."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:730
+msgid "BANNER CODE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:734
+msgid "Please paste your html code here for you footer banner section."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:743
+msgid "Social Icons"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:760
+msgid "You can turn On/Off footer social networking profile icons."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:767
+msgid "COPY RIGHT TEXT"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:772
+msgid "Please paste here your copy right text."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:778
+msgid "FOOTER LOGO"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:834
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:117
+msgid "Footer Layout"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:878
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:303
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:898
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:329
+msgid "Please select home page layout style."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:909
+msgid "BREADCRUMBS"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:925
+msgid "You can turn On/Off BreadCrumbs from Top of the page."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:933
+msgid "RTL LAYOUTS"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:941
+msgid "You can turn On/Off RTL Layout of website."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:949
+msgid "TURN ON/OFF LOADER"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:965
+msgid "You can turn On/Off site Loader of website."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:974
+msgid "TURN ON/OFF ELEMENT LOAD ON SCROLL"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:990
+msgid "You can turn On/Off element Loader of website."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:1002
+#: ../ultimate-futuristik/woocommerce/myaccount/form-login.php:72
+#: ../woocommerce_new/myaccount/form-login.php:72
+msgid "Username"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:1006
+msgid "Please enter your Theme Forest username."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:1007
+msgid "For example: denonstudio"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:1016
+msgid "API Key"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:1021
+msgid "Please paste here your theme forest Secret API Key."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:1022
+msgid "For example: xxxxxxxav7hny3p1ptm7xxxxxxxx"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp-option.php:1031
+#: ../ultimate-futuristik/framework/cp_options_default_pages.php:113
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:336
+#: ../ultimate-futuristik/framework/cp_options_newsletter.php:132
+#: ../ultimate-futuristik/framework/cp_options_sidebar.php:124
+#: ../ultimate-futuristik/framework/cp_options_slider.php:383
+#: ../ultimate-futuristik/framework/cp_options_social.php:497
+#: ../ultimate-futuristik/framework/cp_options_typography.php:746
+msgid "Save Changes"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_dummy_data_import.php:43
+#: ../ultimate-futuristik/framework/extensions/super-object.php:672
+msgid "Dummy Content Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_dummy_data_import.php:56
+msgid "Import Dummy Content"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_dummy_data_import.php:59
+msgid "Import Content"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_dummy_data_import.php:65
+msgid ""
+"Click on Import button to import your theme dummy content, After Clicking "
+"here everything will be set as demo. <br /><br />Note: If dummy content "
+"display any error please make sure your Allowed memory size greater than "
+"64MB."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_default_pages.php:46
+msgid "Default Pages Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_default_pages.php:95
+msgid "Category Pages, Search, Archives, Taxonomy, Tags."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_default_pages.php:103
+msgid "Default Excerpt"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_default_pages.php:107
+msgid "Please Paste Your Default Excerpt(Number of words)."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:107
+msgid "CrunchPress Framework"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:116
+msgid "Home Page Layout"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:129
+msgid "Home Page Layout Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:133
+msgid "News Headline"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:148
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:201
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:286
+msgid "You can turn On/Off Home Page Widgets from Top of the page."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:154
+msgid "News Headline Title"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:159
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:212
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:263
+msgid "Please enter your news headline title here."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:165
+msgid "News Headline Category"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:170
+msgid "---No Category---"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:180
+msgid "Please select headline category."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:186
+msgid "Twitter Feeds"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:207
+msgid "Twitter Title"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:218
+msgid "Consumer Key"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:223
+msgid "Please enter your Consumer Key Here."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:228
+msgid "Consumer Secret Key"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:233
+msgid "Please enter your Consumer Secret Key here here."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:238
+msgid "User Token"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:243
+msgid "Please enter your User Token here."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:248
+msgid "User Secret Token"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:253
+msgid "Please enter your User Secret Token title here."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:258
+msgid "Twitter ID"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:271
+msgid "Footer Widgets"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:292
+msgid "Footer Section Title"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_home_page.php:297
+msgid "Please enter your footer section title here."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_newsletter.php:42
+#: ../ultimate-futuristik/framework/extensions/super-object.php:668
+msgid "Newsletter Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_newsletter.php:92
+msgid "Newsletter Type"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_newsletter.php:96
+msgid "Google Feed Burner"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_newsletter.php:98
+msgid "CP Newsletter"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_newsletter.php:103
+msgid "Please Select Newsletter Type from dropdown"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_newsletter.php:110
+msgid "Feed Burner ID"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_newsletter.php:114
+msgid "Please enter your google feed burner id in text field."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_newsletter.php:120
+msgid "Download Newsletter"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_newsletter.php:124
+msgid "Download your newsletters csv file from here."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_sidebar.php:44
+msgid "Add New Sidebar"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_sidebar.php:90
+msgid "Add Sidebar Name"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_sidebar.php:95
+msgid ""
+"Add New Sidebars(Widget Areas) here you can manage them from Dashboard > "
+"Appearance > Widgets."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:45
+#: ../ultimate-futuristik/framework/extensions/super-object.php:652
+msgid "Slider Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:160
+msgid "SELECT SLIDER"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:164
+msgid "--No Slider--"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:167
+msgid "BX Slider"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:171
+msgid "Select slider for configuration."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:178
+msgid "ANIMATION TYPE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:193
+msgid "REVERSE ORDER"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:208
+msgid "START SLIDER FROM"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:218
+#: ../ultimate-futuristik/framework/cp_options_slider.php:286
+#: ../ultimate-futuristik/framework/cp_options_slider.php:343
+msgid "AUTO PLAY"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:232
+#: ../ultimate-futuristik/framework/cp_options_slider.php:314
+#: ../ultimate-futuristik/framework/cp_options_slider.php:369
+msgid "ANIMATION SPEED"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:242
+#: ../ultimate-futuristik/framework/cp_options_slider.php:300
+#: ../ultimate-futuristik/framework/cp_options_slider.php:356
+msgid "PAUSE ON HOVER"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:256
+msgid "BULLETS NAVIGATION"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:270
+msgid "ARROW NAVIGATION"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:324
+msgid "BX Slider Configurations"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:329
+msgid "Slider Effect"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:333
+msgid "Slide"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:334
+msgid "Fade"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:337
+msgid "Please select slider image order."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:350
+msgid "Please turn on/off Slider autoplay."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:363
+msgid "Please On/Off slider pause on hover."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_slider.php:372
+msgid "Please define animation speed for slider."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:43
+msgid "Social Networking"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:44
+msgid "Social Sharing"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:170
+#: ../ultimate-futuristik/framework/extensions/super-object.php:843
+msgid "Facebook"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:176
+#: ../ultimate-futuristik/framework/cp_options_social.php:188
+#: ../ultimate-futuristik/framework/cp_options_social.php:200
+#: ../ultimate-futuristik/framework/cp_options_social.php:214
+#: ../ultimate-futuristik/framework/cp_options_social.php:241
+#: ../ultimate-futuristik/framework/cp_options_social.php:294
+#: ../ultimate-futuristik/framework/cp_options_social.php:309
+#: ../ultimate-futuristik/framework/cp_options_social.php:336
+#: ../ultimate-futuristik/framework/cp_options_social.php:349
+msgid "Please paste your Profile URl"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:182
+#: ../ultimate-futuristik/framework/extensions/super-object.php:844
+msgid "Twitter"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:194
+#: ../ultimate-futuristik/framework/extensions/super-object.php:848
+msgid "Delicious"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:208
+#: ../ultimate-futuristik/framework/extensions/super-object.php:846
+msgid "Google Plus"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:220
+msgid "Stumble Upon"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:235
+#: ../ultimate-futuristik/framework/extensions/super-object.php:845
+msgid "Linked In"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:247
+#: ../ultimate-futuristik/framework/extensions/super-object.php:850
+msgid "Digg"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:260
+msgid "Myspace"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:273
+#: ../ultimate-futuristik/framework/extensions/super-object.php:851
+msgid "Reddit"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:288
+#: ../ultimate-futuristik/framework/extensions/super-object.php:852
+msgid "Youtube"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:303
+msgid "Flickr"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:315
+#: ../ultimate-futuristik/framework/extensions/super-object.php:853
+msgid "Picasa"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:330
+#: ../ultimate-futuristik/framework/extensions/super-object.php:854
+msgid "Vimeo"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:343
+msgid "Pinterest"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:360
+msgid "FACEBOOK SHARING"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:370
+#: ../ultimate-futuristik/framework/cp_options_social.php:386
+#: ../ultimate-futuristik/framework/cp_options_social.php:402
+#: ../ultimate-futuristik/framework/cp_options_social.php:420
+#: ../ultimate-futuristik/framework/cp_options_social.php:437
+#: ../ultimate-futuristik/framework/cp_options_social.php:454
+#: ../ultimate-futuristik/framework/cp_options_social.php:472
+#: ../ultimate-futuristik/framework/cp_options_social.php:488
+msgid "Please turn On/Off sharing on post detail page."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:376
+msgid "TWITTER SHARING"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:392
+msgid "STUMBLEUPON SHARING"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:410
+msgid "DELICIOUS SHARING"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:427
+msgid "GOOGLE PLUS SHARING"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:444
+msgid "DIGG SHARING"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:462
+msgid "MYSPACE SHARING"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_social.php:478
+msgid "REDDIT SHARING"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:110
+msgid "Font Family"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:111
+msgid "Font Size"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:112
+msgid "Type Kit Font"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:137
+msgid "FONT FAMILY"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:141
+#: ../ultimate-futuristik/framework/cp_options_typography.php:302
+#: ../ultimate-futuristik/framework/cp_options_typography.php:452
+msgid "Theme Default"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:290
+msgid "Please Select font family from dropdown for website body text."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:292
+#: ../ultimate-futuristik/framework/cp_options_typography.php:443
+#: ../ultimate-futuristik/framework/cp_options_typography.php:603
+msgid "SAMPLE TEXT"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:298
+msgid "FONT FAMILY HEADINGS"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:441
+msgid "Please select font family from dropdown for website Headings."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:448
+msgid "MENU FONT FAMILY"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:601
+msgid "Please Select font family from dropdown for website Menu."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:612
+msgid "BODY TEXT FONT SIZE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:616
+msgid "Please manage font body size for your website body text."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:624
+msgid "HEADING H1 SIZE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:628
+msgid "Please manage font size for website Heading - h1"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:637
+msgid "HEADING H2 SIZE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:641
+msgid "Please manage font size for website Heading - h2"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:649
+msgid "HEADING H3 SIZE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:653
+msgid "Please manage font size for website Heading - h3"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:661
+msgid "HEADING H4 SIZE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:665
+msgid "Please manage font size for website Heading - h4"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:673
+msgid "HEADING H5 SIZE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:677
+msgid "Please manage font size for website Heading - h5"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:685
+msgid "HEADING H6 SIZE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:689
+msgid "Please manage font size for website Heading - h6"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:696
+msgid "Typekit Font Upload Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:701
+msgid "TYPEKIT EMBED CODE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:705
+msgid "Please paste TypeKit Embeded Code JavaScript Here."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/cp_options_typography.php:710
+msgid "Font Name"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/breadcrumbs.php:169
+#: ../ultimate-futuristik/woocommerce/global/breadcrumb.php:203
+#: ../woocommerce_new/global/breadcrumb.php:203
+msgid "Page"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/breadcrumbs.php:181
+msgid "Category:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/breadcrumbs.php:185
+msgid "Search results for:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/breadcrumbs.php:189
+#: ../ultimate-futuristik/framework/extensions/breadcrumbs.php:195
+#: ../ultimate-futuristik/framework/extensions/breadcrumbs.php:202
+msgid "Archive:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:164
+#: ../ultimate-futuristik/framework/extensions/plugins.php:180
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:165
+#: ../ultimate-futuristik/framework/extensions/plugins.php:181
+msgid "Install Plugins"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:166
+#: ../ultimate-futuristik/framework/extensions/plugins.php:182
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:178
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:490
+#: ../ultimate-futuristik/framework/extensions/plugins.php:194
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:179
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1846
+#: ../ultimate-futuristik/framework/extensions/plugins.php:195
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:517
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1300
+#: ../ultimate-futuristik/woocommerce/myaccount/my-orders.php:34
+#: ../woocommerce_new/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1956
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1956
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:52
+msgid "SIGN IN"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:55
+msgid "User Name"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:58
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:85
+#: ../ultimate-futuristik/woocommerce/global/form-login.php:26
+#: ../ultimate-futuristik/woocommerce/myaccount/form-login.php:36
+#: ../ultimate-futuristik/woocommerce/myaccount/form-login.php:84
+#: ../woocommerce_new/global/form-login.php:26
+#: ../woocommerce_new/myaccount/form-login.php:36
+#: ../woocommerce_new/myaccount/form-login.php:84
+msgid "Password"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:62
+msgid "Sign In"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:70
+msgid "SIGN UP"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:73
+msgid "First Name"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:76
+msgid "Last Name"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:79
+msgid "Email Address"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:82
+msgid "Re-Enter Email Address"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:88
+msgid "Confirm Password"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:92
+msgid "Sign Up"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/cp-headers.php:134
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/plugins.php:183
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/plugins.php:196
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:281
+msgid "Insert Gallery Items"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:560
+msgid "Sidebars"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:599
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:616
+#: ../ultimate-futuristik/framework/extensions/super-object.php:637
+msgid "Select Slide from dropdown to use in main slider."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:621
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:645
+msgid "General Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:648
+msgid "Typography Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:656
+msgid "Sidebar Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:660
+msgid "Default Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:664
+msgid "Social Settings"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:681
+msgid "Home Page"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:847
+msgid "Flicker"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:849
+msgid "Google Bookmark"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/super-object.php:1287
+#: ../ultimate-futuristik/woocommerce/order/order-details.php:122
+#: ../ultimate-futuristik/woocommerce/order/order-details.php:137
+#: ../woocommerce_new/order/order-details.php:122
+#: ../woocommerce_new/order/order-details.php:137
+msgid "N/A"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:137
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:146
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:197
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:201
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:210
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:138
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:181
+msgid "All done."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:181
+msgid "Have fun!"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:182
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:202
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:218
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:243
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:269
+msgid "Assign Authors"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:270
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:272
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:282
+msgid "Import Attachments"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:285
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:302
+msgid "Import author:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:313
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:316
+msgid "as a new user:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:324
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:326
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:327
+msgid "- Select -"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:377
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:426
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:464
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:508
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:634
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:530
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:551
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:606
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:752
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:759
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:822
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:835
+msgid "Invalid file type"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:879
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:885
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:892
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:897
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:903
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:1002
+msgid "Import WordPress"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:1009
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:1024
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:1025
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/importer/wordpress-importer.php:1099
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_facebook_widget.php:29
+msgid "Page URL:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_facebook_widget.php:32
+msgid ""
+"Please enter your page url example: http://www.facebook.com/profilename OR"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_facebook_widget.php:33
+msgid "https://www.facebook.com/pages/wxyz/123456789101112"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_facebook_widget.php:39
+msgid "Show Faces:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_facebook_widget.php:41
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_facebook_widget.php:50
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_newsletter_widget.php:27
+#: ../ultimate-futuristik/framework/options/page-option.php:1789
+#: ../ultimate-futuristik/framework/options/page-option.php:1818
+msgid "Yes"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_facebook_widget.php:42
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_facebook_widget.php:51
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_newsletter_widget.php:28
+#: ../ultimate-futuristik/framework/options/page-option.php:1790
+#: ../ultimate-futuristik/framework/options/page-option.php:1819
+msgid "No"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_facebook_widget.php:48
+msgid "Show Stream:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_facebook_widget.php:57
+msgid "Like Box Width:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_facebook_widget.php:63
+msgid "Like Box Height:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_newsletter_widget.php:25
+msgid "Show Name:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_newsletter_widget.php:34
+msgid "Description:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_newsletter_widget.php:119
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_newsletter_widget.php:140
+#: ../ultimate-futuristik/framework/options/page-elements.php:1224
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:67
+#: ../woocommerce_new/single-product-reviews.php:67
+msgid "Submit"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_news_widget.php:20
+msgid "Class:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_news_widget.php:32
+#: ../ultimate-futuristik/framework/extensions/widgets/product_slider_widget.php:24
+msgid "Select Category:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_news_widget.php:46
+msgid "Number of News"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_popular_posts_widget.php:25
+msgid "Number of Posts To Display:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/cp_popular_posts_widget.php:95
+msgid "View All"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/extensions/widgets/product_slider_widget.php:94
+#: ../ultimate-futuristik/framework/options/page-elements.php:601
+#: ../ultimate-futuristik/framework/options/product-option.php:247
+#: ../ultimate-futuristik/framework/options/product-option.php:346
+#: ../ultimate-futuristik/framework/options/product-option.php:366
+#: ../ultimate-futuristik/framework/options/product-option.php:466
+#: ../ultimate-futuristik/framework/options/product-option.php:484
+#: ../ultimate-futuristik/framework/options/product-option.php:523
+#: ../ultimate-futuristik/framework/options/product-option.php:606
+msgid "Add to cart"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/ignitiondeck-option.php:128
+msgid "Funded"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/ignitiondeck-option.php:134
+msgid "More Detail"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/ignitiondeck-option.php:135
+msgid "Or"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/ignitiondeck-option.php:136
+msgid "Completed"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:247
+msgid "Not yet implement"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:313
+#: ../ultimate-futuristik/framework/options/product-option.php:194
+msgid "All"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:346
+msgid "--Select Any--"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:375
+msgid "Enable"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:376
+msgid "Disable"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:437
+msgid "No Gallery Items Inserted"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:451
+#: ../ultimate-futuristik/framework/options/meta-template.php:501
+msgid "SLIDER TITLE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:454
+#: ../ultimate-futuristik/framework/options/meta-template.php:504
+msgid "SLIDER CAPTION"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:457
+#: ../ultimate-futuristik/framework/options/meta-template.php:507
+msgid "LINK TYPE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:461
+#: ../ultimate-futuristik/framework/options/meta-template.php:512
+msgid "No Link"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:462
+#: ../ultimate-futuristik/framework/options/meta-template.php:513
+msgid "Lightbox"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:463
+#: ../ultimate-futuristik/framework/options/meta-template.php:514
+msgid "Link to URL"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:464
+#: ../ultimate-futuristik/framework/options/meta-template.php:515
+msgid "Link to Video"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:467
+#: ../ultimate-futuristik/framework/options/meta-template.php:518
+msgid "URL PATH"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/meta-template.php:468
+#: ../ultimate-futuristik/framework/options/meta-template.php:519
+msgid "VIDEO PATH (ONLY FOR ANYTHING SLIDER)"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-elements.php:552
+msgid "All Categories"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-elements.php:813
+msgid "View Detail"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-elements.php:1222
+msgid "Message"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-elements.php:1285
+#: ../ultimate-futuristik/framework/options/page-elements.php:1353
+msgid "View All News &nbsp;"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-elements.php:1574
+msgid "Pledged of"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-elements.php:1580
+msgid "Pledgers"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-elements.php:1689
+msgid "Dont miss"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:80
+msgid "Header Style"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:135
+msgid "MAIN SLIDER"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:153
+msgid "TOP SLIDER TYPE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:177
+msgid "TOP SLIDER SLIDE IMAGES"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:217
+msgid "TOP LAYER SLIDER ID"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:235
+msgid "TOP SLIDER SHORTCODE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:351
+msgid "CHOOSE LEFT SIDEBAR"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:367
+msgid "CHOOSE RIGHT SIDEBAR"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:1077
+msgid "CP Page Builder"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:1593
+msgid "Drop Elements Here"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:1766
+msgid "ADD MORE TABS"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:1779
+#: ../ultimate-futuristik/framework/options/page-option.php:1806
+msgid "TABS TITLE"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:1782
+#: ../ultimate-futuristik/framework/options/page-option.php:1809
+msgid "TABS TEXT"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/page-option.php:1786
+#: ../ultimate-futuristik/framework/options/page-option.php:1815
+msgid "Tabs Active"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/post-option.php:17
+msgid "Post Options"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/post-option.php:77
+msgid "You can turn On/Off social sharing from event detail."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/post-option.php:95
+msgid "Select Type"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/post-option.php:99
+msgid "Feature Image"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/post-option.php:101
+msgid "Video"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/post-option.php:105
+msgid "Please select your post type of content."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/post-option.php:112
+msgid "Video URL"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/post-option.php:115
+msgid "Please paste Youtube or Vimeo url."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/post-option.php:121
+msgid "AUDIO MP3 URL"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/post-option.php:124
+msgid "Please paste mp3 audio url."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/post-option.php:130
+msgid "Select Images Slide"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/post-option.php:139
+msgid "Please select slide to show in post."
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/product-option.php:254
+#: ../ultimate-futuristik/framework/options/product-option.php:353
+#: ../ultimate-futuristik/framework/options/product-option.php:373
+#: ../ultimate-futuristik/framework/options/product-option.php:473
+#: ../ultimate-futuristik/framework/options/product-option.php:491
+#: ../ultimate-futuristik/framework/options/product-option.php:530
+#: ../ultimate-futuristik/framework/options/product-option.php:613
+msgid "Price:"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/product-option.php:417
+msgid "item(s)"
+msgstr ""
+
+#: ../ultimate-futuristik/framework/options/product-option.php:419
+msgid "List"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:23
+#: ../woocommerce_new/single-product-reviews.php:23
+msgid "Reviews"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:44
+#: ../woocommerce_new/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:57
+#: ../woocommerce_new/single-product-reviews.php:57
+msgid "Add a review"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:57
+#: ../woocommerce_new/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:58
+#: ../woocommerce_new/single-product-reviews.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:73
+#: ../woocommerce_new/single-product-reviews.php:73
+msgid "Your Rating"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:74
+#: ../woocommerce_new/single-product-reviews.php:74
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:75
+#: ../woocommerce_new/single-product-reviews.php:75
+msgid "Perfect"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:76
+#: ../woocommerce_new/single-product-reviews.php:76
+msgid "Good"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:77
+#: ../woocommerce_new/single-product-reviews.php:77
+msgid "Average"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:78
+#: ../woocommerce_new/single-product-reviews.php:78
+msgid "Not that bad"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:79
+#: ../woocommerce_new/single-product-reviews.php:79
+msgid "Very Poor"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:83
+#: ../woocommerce_new/single-product-reviews.php:83
+msgid "Your Review"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product-reviews.php:92
+#: ../woocommerce_new/single-product-reviews.php:92
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-empty.php:16
+#: ../woocommerce_new/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-empty.php:20
+#: ../woocommerce_new/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-shipping.php:16
+#: ../woocommerce_new/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-shipping.php:18
+#: ../woocommerce_new/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-shipping.php:55
+#: ../woocommerce_new/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-shipping.php:59
+#: ../woocommerce_new/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-shipping.php:63
+#: ../woocommerce_new/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-shipping.php:73
+#: ../ultimate-futuristik/woocommerce/cart/cart-shipping.php:81
+#: ../woocommerce_new/cart/cart-shipping.php:73
+#: ../woocommerce_new/cart/cart-shipping.php:81
+#, php-format
+msgid "Sorry, shipping is unavailable %s."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-shipping.php:73
+#: ../ultimate-futuristik/woocommerce/cart/cart-shipping.php:81
+#: ../woocommerce_new/cart/cart-shipping.php:73
+#: ../woocommerce_new/cart/cart-shipping.php:81
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-shipping.php:97
+#: ../woocommerce_new/cart/cart-shipping.php:97
+msgid "Shipping"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-totals.php:16
+#: ../woocommerce_new/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-totals.php:21
+#: ../ultimate-futuristik/woocommerce/checkout/review-order.php:25
+#: ../woocommerce_new/cart/cart-totals.php:21
+#: ../woocommerce_new/checkout/review-order.php:25
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-totals.php:75
+#: ../ultimate-futuristik/woocommerce/checkout/review-order.php:79
+#: ../woocommerce_new/cart/cart-totals.php:75
+#: ../woocommerce_new/checkout/review-order.php:79
+msgid "Order Total"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-totals.php:87
+#: ../woocommerce_new/cart/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart-totals.php:90
+#: ../woocommerce_new/cart/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart.php:27
+#: ../ultimate-futuristik/woocommerce/checkout/form-pay.php:19
+#: ../ultimate-futuristik/woocommerce/checkout/review-order.php:18
+#: ../ultimate-futuristik/woocommerce/emails/admin-new-order.php:22
+#: ../ultimate-futuristik/woocommerce/emails/customer-completed-order.php:23
+#: ../ultimate-futuristik/woocommerce/emails/customer-invoice.php:27
+#: ../ultimate-futuristik/woocommerce/emails/customer-note.php:27
+#: ../ultimate-futuristik/woocommerce/emails/customer-processing-order.php:23
+#: ../ultimate-futuristik/woocommerce/order/order-details.php:20
+#: ../woocommerce_new/cart/cart.php:27
+#: ../woocommerce_new/checkout/form-pay.php:19
+#: ../woocommerce_new/checkout/review-order.php:18
+#: ../woocommerce_new/emails/admin-new-order.php:22
+#: ../woocommerce_new/emails/customer-completed-order.php:23
+#: ../woocommerce_new/emails/customer-invoice.php:27
+#: ../woocommerce_new/emails/customer-note.php:27
+#: ../woocommerce_new/emails/customer-processing-order.php:23
+#: ../woocommerce_new/order/order-details.php:20
+msgid "Product"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart.php:28
+#: ../ultimate-futuristik/woocommerce/emails/admin-new-order.php:24
+#: ../ultimate-futuristik/woocommerce/emails/customer-completed-order.php:25
+#: ../ultimate-futuristik/woocommerce/emails/customer-invoice.php:29
+#: ../ultimate-futuristik/woocommerce/emails/customer-note.php:29
+#: ../ultimate-futuristik/woocommerce/emails/customer-processing-order.php:25
+#: ../woocommerce_new/cart/cart.php:28
+#: ../woocommerce_new/emails/admin-new-order.php:24
+#: ../woocommerce_new/emails/customer-completed-order.php:25
+#: ../woocommerce_new/emails/customer-invoice.php:29
+#: ../woocommerce_new/emails/customer-note.php:29
+#: ../woocommerce_new/emails/customer-processing-order.php:25
+msgid "Price"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart.php:29
+#: ../ultimate-futuristik/woocommerce/emails/admin-new-order.php:23
+#: ../ultimate-futuristik/woocommerce/emails/customer-completed-order.php:24
+#: ../ultimate-futuristik/woocommerce/emails/customer-invoice.php:28
+#: ../ultimate-futuristik/woocommerce/emails/customer-note.php:28
+#: ../ultimate-futuristik/woocommerce/emails/customer-processing-order.php:24
+#: ../woocommerce_new/cart/cart.php:29
+#: ../woocommerce_new/emails/admin-new-order.php:23
+#: ../woocommerce_new/emails/customer-completed-order.php:24
+#: ../woocommerce_new/emails/customer-invoice.php:28
+#: ../woocommerce_new/emails/customer-note.php:28
+#: ../woocommerce_new/emails/customer-processing-order.php:24
+msgid "Quantity"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart.php:30
+#: ../ultimate-futuristik/woocommerce/checkout/review-order.php:19
+#: ../ultimate-futuristik/woocommerce/myaccount/my-orders.php:35
+#: ../ultimate-futuristik/woocommerce/order/order-details.php:21
+#: ../woocommerce_new/cart/cart.php:30
+#: ../woocommerce_new/checkout/review-order.php:19
+#: ../woocommerce_new/myaccount/my-orders.php:35
+#: ../woocommerce_new/order/order-details.php:21
+msgid "Total"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart.php:47
+#: ../woocommerce_new/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart.php:74
+#: ../woocommerce_new/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart.php:118
+#: ../woocommerce_new/cart/cart.php:118
+msgid "Coupon"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart.php:118
+#: ../ultimate-futuristik/woocommerce/checkout/form-coupon.php:25
+#: ../woocommerce_new/cart/cart.php:118
+#: ../woocommerce_new/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart.php:118
+#: ../ultimate-futuristik/woocommerce/checkout/form-coupon.php:29
+#: ../woocommerce_new/cart/cart.php:118
+#: ../woocommerce_new/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart.php:125
+#: ../woocommerce_new/cart/cart.php:125
+msgid "Update Cart"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cart.php:125
+#: ../woocommerce_new/cart/cart.php:125
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/cross-sells.php:38
+#: ../woocommerce_new/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/mini-cart.php:51
+#: ../woocommerce_new/cart/mini-cart.php:51
+msgid "No products in the cart."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/mini-cart.php:59
+#: ../woocommerce_new/cart/mini-cart.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/mini-cart.php:64
+#: ../woocommerce_new/cart/mini-cart.php:64
+msgid "View Cart"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/mini-cart.php:65
+#: ../woocommerce_new/cart/mini-cart.php:65
+msgid "Checkout"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/shipping-calculator.php:22
+#: ../woocommerce_new/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/shipping-calculator.php:28
+#: ../woocommerce_new/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/shipping-calculator.php:45
+#: ../ultimate-futuristik/woocommerce/cart/shipping-calculator.php:51
+#: ../ultimate-futuristik/woocommerce/cart/shipping-calculator.php:63
+#: ../woocommerce_new/cart/shipping-calculator.php:45
+#: ../woocommerce_new/cart/shipping-calculator.php:51
+#: ../woocommerce_new/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/shipping-calculator.php:52
+#: ../woocommerce_new/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/shipping-calculator.php:72
+#: ../woocommerce_new/cart/shipping-calculator.php:72
+msgid "City"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/shipping-calculator.php:80
+#: ../woocommerce_new/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/cart/shipping-calculator.php:85
+#: ../woocommerce_new/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/cart-errors.php:16
+#: ../woocommerce_new/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/cart-errors.php:20
+#: ../woocommerce_new/checkout/cart-errors.php:20
+msgid "Return To Cart"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-billing.php:15
+#: ../woocommerce_new/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-billing.php:19
+#: ../ultimate-futuristik/woocommerce/myaccount/form-edit-address.php:14
+#: ../ultimate-futuristik/woocommerce/myaccount/my-address.php:19
+#: ../ultimate-futuristik/woocommerce/myaccount/my-address.php:25
+#: ../ultimate-futuristik/woocommerce/order/order-details.php:118
+#: ../woocommerce_new/checkout/form-billing.php:19
+#: ../woocommerce_new/myaccount/form-edit-address.php:14
+#: ../woocommerce_new/myaccount/my-address.php:19
+#: ../woocommerce_new/myaccount/my-address.php:25
+#: ../woocommerce_new/order/order-details.php:118
+msgid "Billing Address"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-billing.php:38
+#: ../woocommerce_new/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-billing.php:49
+#: ../woocommerce_new/checkout/form-billing.php:49
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-checkout.php:20
+#: ../woocommerce_new/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-checkout.php:51
+#: ../woocommerce_new/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-coupon.php:17
+#: ../woocommerce_new/checkout/form-coupon.php:17
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-coupon.php:18
+#: ../woocommerce_new/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-login.php:14
+#: ../woocommerce_new/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-login.php:15
+#: ../woocommerce_new/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-login.php:22
+#: ../woocommerce_new/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-pay.php:20
+#: ../woocommerce_new/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-pay.php:21
+#: ../woocommerce_new/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-pay.php:54
+#: ../woocommerce_new/checkout/form-pay.php:54
+msgid "Payment"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-pay.php:79
+#: ../woocommerce_new/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-pay.php:89
+#: ../woocommerce_new/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-shipping.php:29
+#: ../woocommerce_new/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/form-shipping.php:55
+#: ../ultimate-futuristik/woocommerce/single-product/tabs/additional-information.php:14
+#: ../woocommerce_new/checkout/form-shipping.php:55
+#: ../woocommerce_new/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/review-order.php:150
+#: ../woocommerce_new/checkout/review-order.php:150
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/review-order.php:152
+#: ../woocommerce_new/checkout/review-order.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/review-order.php:161
+#: ../woocommerce_new/checkout/review-order.php:161
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/review-order.php:161
+#: ../woocommerce_new/checkout/review-order.php:161
+msgid "Update totals"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/review-order.php:168
+#: ../woocommerce_new/checkout/review-order.php:168
+msgid "Place order"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/review-order.php:177
+#: ../woocommerce_new/checkout/review-order.php:177
+msgid "I have read and accept the"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/review-order.php:177
+#: ../woocommerce_new/checkout/review-order.php:177
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/thankyou.php:18
+#: ../woocommerce_new/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/thankyou.php:22
+#: ../woocommerce_new/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/thankyou.php:24
+#: ../woocommerce_new/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/thankyou.php:28
+#: ../ultimate-futuristik/woocommerce/myaccount/my-orders.php:71
+#: ../woocommerce_new/checkout/thankyou.php:28
+#: ../woocommerce_new/myaccount/my-orders.php:71
+msgid "Pay"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/thankyou.php:30
+#: ../woocommerce_new/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/thankyou.php:36
+#: ../ultimate-futuristik/woocommerce/checkout/thankyou.php:67
+#: ../woocommerce_new/checkout/thankyou.php:36
+#: ../woocommerce_new/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/thankyou.php:40
+#: ../ultimate-futuristik/woocommerce/emails/customer-completed-order.php:18
+#: ../ultimate-futuristik/woocommerce/emails/customer-invoice.php:22
+#: ../ultimate-futuristik/woocommerce/emails/customer-note.php:22
+#: ../ultimate-futuristik/woocommerce/emails/customer-processing-order.php:18
+#: ../woocommerce_new/checkout/thankyou.php:40
+#: ../woocommerce_new/emails/customer-completed-order.php:18
+#: ../woocommerce_new/emails/customer-invoice.php:22
+#: ../woocommerce_new/emails/customer-note.php:22
+#: ../woocommerce_new/emails/customer-processing-order.php:18
+msgid "Order:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/thankyou.php:44
+#: ../woocommerce_new/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/thankyou.php:48
+#: ../woocommerce_new/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/checkout/thankyou.php:53
+#: ../woocommerce_new/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/admin-new-order.php:13
+#: ../ultimate-futuristik/woocommerce/emails/plain/admin-new-order.php:13
+#: ../woocommerce_new/emails/admin-new-order.php:13
+#: ../woocommerce_new/emails/plain/admin-new-order.php:13
+#, php-format
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/admin-new-order.php:17
+#: ../woocommerce_new/emails/admin-new-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/admin-new-order.php:50
+#: ../ultimate-futuristik/woocommerce/emails/customer-completed-order.php:51
+#: ../ultimate-futuristik/woocommerce/emails/customer-note.php:55
+#: ../ultimate-futuristik/woocommerce/emails/customer-processing-order.php:51
+#: ../ultimate-futuristik/woocommerce/emails/plain/admin-new-order.php:39
+#: ../ultimate-futuristik/woocommerce/order/order-details.php:97
+#: ../woocommerce_new/emails/admin-new-order.php:50
+#: ../woocommerce_new/emails/customer-completed-order.php:51
+#: ../woocommerce_new/emails/customer-note.php:55
+#: ../woocommerce_new/emails/customer-processing-order.php:51
+#: ../woocommerce_new/emails/plain/admin-new-order.php:39
+#: ../woocommerce_new/order/order-details.php:97
+msgid "Customer details"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/admin-new-order.php:53
+#: ../ultimate-futuristik/woocommerce/emails/customer-completed-order.php:54
+#: ../ultimate-futuristik/woocommerce/emails/customer-note.php:58
+#: ../ultimate-futuristik/woocommerce/emails/customer-processing-order.php:54
+#: ../ultimate-futuristik/woocommerce/emails/plain/admin-new-order.php:42
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-completed-order.php:41
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-note.php:49
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-processing-order.php:41
+#: ../ultimate-futuristik/woocommerce/order/order-details.php:101
+#: ../woocommerce_new/emails/admin-new-order.php:53
+#: ../woocommerce_new/emails/customer-completed-order.php:54
+#: ../woocommerce_new/emails/customer-note.php:58
+#: ../woocommerce_new/emails/customer-processing-order.php:54
+#: ../woocommerce_new/emails/plain/admin-new-order.php:42
+#: ../woocommerce_new/emails/plain/customer-completed-order.php:41
+#: ../woocommerce_new/emails/plain/customer-note.php:49
+#: ../woocommerce_new/emails/plain/customer-processing-order.php:41
+#: ../woocommerce_new/order/order-details.php:101
+msgid "Email:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/admin-new-order.php:56
+#: ../ultimate-futuristik/woocommerce/emails/customer-completed-order.php:57
+#: ../ultimate-futuristik/woocommerce/emails/customer-note.php:61
+#: ../ultimate-futuristik/woocommerce/emails/customer-processing-order.php:57
+#: ../ultimate-futuristik/woocommerce/emails/plain/admin-new-order.php:45
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-completed-order.php:44
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-note.php:52
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-processing-order.php:44
+#: ../woocommerce_new/emails/admin-new-order.php:56
+#: ../woocommerce_new/emails/customer-completed-order.php:57
+#: ../woocommerce_new/emails/customer-note.php:61
+#: ../woocommerce_new/emails/customer-processing-order.php:57
+#: ../woocommerce_new/emails/plain/admin-new-order.php:45
+#: ../woocommerce_new/emails/plain/customer-completed-order.php:44
+#: ../woocommerce_new/emails/plain/customer-note.php:52
+#: ../woocommerce_new/emails/plain/customer-processing-order.php:44
+msgid "Tel:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-completed-order.php:14
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-completed-order.php:13
+#: ../woocommerce_new/emails/customer-completed-order.php:14
+#: ../woocommerce_new/emails/plain/customer-completed-order.php:13
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-invoice.php:16
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-invoice.php:14
+#: ../woocommerce_new/emails/customer-invoice.php:16
+#: ../woocommerce_new/emails/plain/customer-invoice.php:14
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-invoice.php:16
+#: ../woocommerce_new/emails/customer-invoice.php:16
+msgid "pay"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-new-account.php:14
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-new-account.php:13
+#: ../woocommerce_new/emails/customer-new-account.php:14
+#: ../woocommerce_new/emails/plain/customer-new-account.php:13
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-new-account.php:18
+#: ../woocommerce_new/emails/customer-new-account.php:18
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-new-account.php:22
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-new-account.php:18
+#: ../woocommerce_new/emails/customer-new-account.php:22
+#: ../woocommerce_new/emails/plain/customer-new-account.php:18
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-note.php:14
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-note.php:13
+#: ../woocommerce_new/emails/customer-note.php:14
+#: ../woocommerce_new/emails/plain/customer-note.php:13
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-note.php:18
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-note.php:21
+#: ../woocommerce_new/emails/customer-note.php:18
+#: ../woocommerce_new/emails/plain/customer-note.php:21
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-processing-order.php:14
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-processing-order.php:13
+#: ../woocommerce_new/emails/customer-processing-order.php:14
+#: ../woocommerce_new/emails/plain/customer-processing-order.php:13
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-reset-password.php:14
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-reset-password.php:13
+#: ../woocommerce_new/emails/customer-reset-password.php:14
+#: ../woocommerce_new/emails/plain/customer-reset-password.php:13
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-reset-password.php:15
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-reset-password.php:15
+#: ../woocommerce_new/emails/customer-reset-password.php:15
+#: ../woocommerce_new/emails/plain/customer-reset-password.php:15
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-reset-password.php:16
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-reset-password.php:16
+#: ../woocommerce_new/emails/customer-reset-password.php:16
+#: ../woocommerce_new/emails/plain/customer-reset-password.php:16
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-reset-password.php:17
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-reset-password.php:17
+#: ../woocommerce_new/emails/customer-reset-password.php:17
+#: ../woocommerce_new/emails/plain/customer-reset-password.php:17
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/customer-reset-password.php:20
+#: ../woocommerce_new/emails/customer-reset-password.php:20
+msgid "Click here to reset your password"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/email-addresses.php:18
+#: ../ultimate-futuristik/woocommerce/emails/plain/email-addresses.php:12
+#: ../woocommerce_new/emails/email-addresses.php:18
+#: ../woocommerce_new/emails/plain/email-addresses.php:12
+msgid "Billing address"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/email-addresses.php:28
+#: ../ultimate-futuristik/woocommerce/emails/plain/email-addresses.php:17
+#: ../woocommerce_new/emails/email-addresses.php:28
+#: ../woocommerce_new/emails/plain/email-addresses.php:17
+msgid "Shipping address"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/email-order-items.php:25
+#: ../woocommerce_new/emails/email-order-items.php:25
+msgid "Product Image"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/email-order-items.php:46
+#: ../ultimate-futuristik/woocommerce/emails/plain/email-order-items.php:46
+#: ../woocommerce_new/emails/email-order-items.php:46
+#: ../woocommerce_new/emails/plain/email-order-items.php:46
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/plain/admin-new-order.php:19
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-completed-order.php:19
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-invoice.php:20
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-note.php:27
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-processing-order.php:19
+#: ../woocommerce_new/emails/plain/admin-new-order.php:19
+#: ../woocommerce_new/emails/plain/customer-completed-order.php:19
+#: ../woocommerce_new/emails/plain/customer-invoice.php:20
+#: ../woocommerce_new/emails/plain/customer-note.php:27
+#: ../woocommerce_new/emails/plain/customer-processing-order.php:19
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/plain/admin-new-order.php:20
+#: ../woocommerce_new/emails/plain/admin-new-order.php:20
+#, php-format
+msgid "Order link: %s"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/plain/admin-new-order.php:21
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-completed-order.php:20
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-invoice.php:21
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-note.php:28
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-processing-order.php:20
+#: ../woocommerce_new/emails/plain/admin-new-order.php:21
+#: ../woocommerce_new/emails/plain/customer-completed-order.php:20
+#: ../woocommerce_new/emails/plain/customer-invoice.php:21
+#: ../woocommerce_new/emails/plain/customer-note.php:28
+#: ../woocommerce_new/emails/plain/customer-processing-order.php:20
+#, php-format
+msgid "Order date: %s"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/plain/admin-new-order.php:21
+#: ../woocommerce_new/emails/plain/admin-new-order.php:21
+msgid "jS F Y"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-completed-order.php:38
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-note.php:46
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-processing-order.php:38
+#: ../woocommerce_new/emails/plain/customer-completed-order.php:38
+#: ../woocommerce_new/emails/plain/customer-note.php:46
+#: ../woocommerce_new/emails/plain/customer-processing-order.php:38
+msgid "Your details"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/plain/customer-new-account.php:16
+#: ../woocommerce_new/emails/plain/customer-new-account.php:16
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/plain/email-order-items.php:32
+#: ../woocommerce_new/emails/plain/email-order-items.php:32
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/emails/plain/email-order-items.php:35
+#: ../woocommerce_new/emails/plain/email-order-items.php:35
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/global/breadcrumb.php:63
+#: ../woocommerce_new/global/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/global/breadcrumb.php:91
+#: ../ultimate-futuristik/woocommerce/global/breadcrumb.php:189
+#: ../woocommerce_new/global/breadcrumb.php:91
+#: ../woocommerce_new/global/breadcrumb.php:189
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/global/breadcrumb.php:147
+#: ../woocommerce_new/global/breadcrumb.php:147
+msgid "Error 404"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/global/breadcrumb.php:193
+#: ../woocommerce_new/global/breadcrumb.php:193
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/global/breadcrumb.php:198
+#: ../woocommerce_new/global/breadcrumb.php:198
+msgid "Author:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/global/form-login.php:22
+#: ../ultimate-futuristik/woocommerce/myaccount/form-lost-password.php:24
+#: ../woocommerce_new/global/form-login.php:22
+#: ../woocommerce_new/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/global/form-login.php:35
+#: ../ultimate-futuristik/woocommerce/myaccount/form-login.php:25
+#: ../ultimate-futuristik/woocommerce/myaccount/form-login.php:44
+#: ../woocommerce_new/global/form-login.php:35
+#: ../woocommerce_new/myaccount/form-login.php:25
+#: ../woocommerce_new/myaccount/form-login.php:44
+msgid "Login"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/global/form-login.php:38
+#: ../ultimate-futuristik/woocommerce/myaccount/form-login.php:46
+#: ../woocommerce_new/global/form-login.php:38
+#: ../woocommerce_new/myaccount/form-login.php:46
+msgid "Remember me"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/global/form-login.php:42
+#: ../ultimate-futuristik/woocommerce/myaccount/form-login.php:50
+#: ../woocommerce_new/global/form-login.php:42
+#: ../woocommerce_new/myaccount/form-login.php:50
+msgid "Lost your password?"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/loop/no-products-found.php:14
+#: ../woocommerce_new/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/loop/orderby.php:21
+#: ../woocommerce_new/loop/orderby.php:21
+msgid "Default sorting"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/loop/orderby.php:22
+#: ../woocommerce_new/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/loop/orderby.php:23
+#: ../woocommerce_new/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/loop/orderby.php:24
+#: ../woocommerce_new/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/loop/orderby.php:25
+#: ../woocommerce_new/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/loop/orderby.php:26
+#: ../woocommerce_new/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/loop/result-count.php:28
+#: ../woocommerce_new/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/loop/result-count.php:30
+#: ../woocommerce_new/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-add-payment-method.php:40
+#: ../woocommerce_new/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-add-payment-method.php:48
+#: ../woocommerce_new/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-change-password.php:20
+#: ../ultimate-futuristik/woocommerce/myaccount/form-lost-password.php:31
+#: ../woocommerce_new/myaccount/form-change-password.php:20
+#: ../woocommerce_new/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-change-password.php:24
+#: ../ultimate-futuristik/woocommerce/myaccount/form-lost-password.php:35
+#: ../woocommerce_new/myaccount/form-change-password.php:24
+#: ../woocommerce_new/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-change-password.php:29
+#: ../ultimate-futuristik/woocommerce/myaccount/form-lost-password.php:46
+#: ../woocommerce_new/myaccount/form-change-password.php:29
+#: ../woocommerce_new/myaccount/form-lost-password.php:46
+msgid "Save"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-edit-account.php:20
+#: ../woocommerce_new/myaccount/form-edit-account.php:20
+msgid "First name"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-edit-account.php:24
+#: ../woocommerce_new/myaccount/form-edit-account.php:24
+msgid "Last name"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-edit-account.php:28
+#: ../ultimate-futuristik/woocommerce/myaccount/form-login.php:79
+#: ../woocommerce_new/myaccount/form-edit-account.php:28
+#: ../woocommerce_new/myaccount/form-login.php:79
+msgid "Email address"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-edit-account.php:32
+#: ../woocommerce_new/myaccount/form-edit-account.php:32
+msgid "Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-edit-account.php:36
+#: ../woocommerce_new/myaccount/form-edit-account.php:36
+msgid "Confirm new password"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-edit-account.php:41
+#: ../woocommerce_new/myaccount/form-edit-account.php:41
+msgid "Save changes"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-edit-address.php:14
+#: ../ultimate-futuristik/woocommerce/myaccount/my-address.php:20
+#: ../ultimate-futuristik/woocommerce/order/order-details.php:133
+#: ../woocommerce_new/myaccount/form-edit-address.php:14
+#: ../woocommerce_new/myaccount/my-address.php:20
+#: ../woocommerce_new/order/order-details.php:133
+msgid "Shipping Address"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-edit-address.php:38
+#: ../woocommerce_new/myaccount/form-edit-address.php:38
+msgid "Save Address"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-login.php:32
+#: ../woocommerce_new/myaccount/form-login.php:32
+msgid "Username or email address"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-login.php:63
+#: ../ultimate-futuristik/woocommerce/myaccount/form-login.php:96
+#: ../woocommerce_new/myaccount/form-login.php:63
+#: ../woocommerce_new/myaccount/form-login.php:96
+msgid "Register"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-login.php:89
+#: ../woocommerce_new/myaccount/form-login.php:89
+msgid "Anti-spam"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-lost-password.php:22
+#: ../woocommerce_new/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-lost-password.php:28
+#: ../woocommerce_new/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/form-lost-password.php:46
+#: ../woocommerce_new/myaccount/form-lost-password.php:46
+msgid "Reset Password"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/my-account.php:19
+#: ../woocommerce_new/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/my-account.php:24
+#: ../woocommerce_new/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/my-address.php:17
+#: ../woocommerce_new/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/my-address.php:23
+#: ../woocommerce_new/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/my-address.php:35
+#: ../woocommerce_new/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/my-address.php:64
+#: ../woocommerce_new/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/my-downloads.php:18
+#: ../woocommerce_new/myaccount/my-downloads.php:18
+msgid "Available downloads"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/my-orders.php:26
+#: ../woocommerce_new/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/my-orders.php:32
+#: ../woocommerce_new/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/my-orders.php:33
+#: ../woocommerce_new/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/my-orders.php:78
+#: ../woocommerce_new/myaccount/my-orders.php:78
+msgid "Cancel"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/my-orders.php:84
+#: ../woocommerce_new/myaccount/my-orders.php:84
+msgid "View"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/view-order.php:12
+#: ../woocommerce_new/myaccount/view-order.php:12
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/view-order.php:16
+#: ../ultimate-futuristik/woocommerce/order/tracking.php:31
+#: ../woocommerce_new/myaccount/view-order.php:16
+#: ../woocommerce_new/order/tracking.php:31
+msgid "Order Updates"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/myaccount/view-order.php:22
+#: ../ultimate-futuristik/woocommerce/order/tracking.php:37
+#: ../woocommerce_new/myaccount/view-order.php:22
+#: ../woocommerce_new/order/tracking.php:37
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/form-tracking.php:17
+#: ../woocommerce_new/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/form-tracking.php:19
+#: ../woocommerce_new/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/form-tracking.php:19
+#: ../woocommerce_new/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/form-tracking.php:20
+#: ../woocommerce_new/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/form-tracking.php:20
+#: ../woocommerce_new/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/form-tracking.php:23
+#: ../woocommerce_new/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/order-details.php:16
+#: ../woocommerce_new/order/order-details.php:16
+msgid "Order Details"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/order-details.php:66
+#: ../woocommerce_new/order/order-details.php:66
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/order-details.php:102
+#: ../woocommerce_new/order/order-details.php:102
+msgid "Telephone:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/tracking.php:18
+#: ../woocommerce_new/order/tracking.php:18
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/tracking.php:18
+#: ../woocommerce_new/order/tracking.php:18
+msgid "ago"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/tracking.php:20
+#: ../woocommerce_new/order/tracking.php:20
+msgid "and was completed"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/order/tracking.php:20
+#: ../woocommerce_new/order/tracking.php:20
+msgid " ago"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/meta.php:23
+#: ../woocommerce_new/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/meta.php:23
+#: ../woocommerce_new/single-product/meta.php:23
+msgid "n/a"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/product-attributes.php:28
+#: ../woocommerce_new/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/product-attributes.php:35
+#: ../woocommerce_new/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/product-image.php:21
+#: ../ultimate-futuristik/woocommerce/single-product/sale-flash-bk.php:16
+#: ../woocommerce_new/loop/sale-flash.php:16
+#: ../woocommerce_new/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/rating.php:23
+#: ../woocommerce_new/single-product/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/rating.php:25
+#: ../ultimate-futuristik/woocommerce/single-product/review.php:27
+#: ../woocommerce_new/single-product/rating.php:25
+#: ../woocommerce_new/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/related.php:36
+#: ../woocommerce_new/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/review.php:26
+#: ../woocommerce_new/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/review.php:34
+#: ../woocommerce_new/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/review.php:43
+#: ../woocommerce_new/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/up-sells.php:39
+#: ../woocommerce_new/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/add-to-cart/variable.php:25
+#: ../woocommerce_new/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/add-to-cart/variable.php:73
+#: ../woocommerce_new/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/add-to-cart/variable.php:103
+#: ../woocommerce_new/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../ultimate-futuristik/woocommerce/single-product/tabs/description.php:14
+#: ../woocommerce_new/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
